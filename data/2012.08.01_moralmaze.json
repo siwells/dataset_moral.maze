@@ -1,0 +1,728 @@
+{
+    "data": [
+        [
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tGood evening. Britain\u2019s won a gold medal, two in fact; we can breathe again. All is right with the world, and the badminton cheats have been disqualified. Sport is fairer than real life.  So much is invested in these games, and I\u2019m not just talking about the \u00a39.5 billion, probably more, of our money. National pride of course, but also hopes for a healthier, more inclusive, more upbeat, even better off, Britain. Hopes seemingly hinged on a few fit people running round in circles, swimming up and down, bouncing on stuffed upholstery, chucking things.  Sport has always had a moral quotient. The Greeks and Romans regarded it both as noble in itself, and essential to the rounded man. Victorian public schools thought it shaped individual character. The founder of the modern Olympics wanted his games to spread peace and understanding amongst nations.  Philosophers on the football terraces - and which fan isn\u2019t \u2013 can still discern a morality play on the pitch. Villainy certainly, but courage, endurance, triumph, tragedy and redemption. Even in an age which has John Terry as a sporting hero.  \u201cWhat\u2019s he babbling about?\u201d I hear some of you cry. \u201cModern sport has been professionalised, it\u2019s driven by money, seduced by big corporations. Winning is all that matters, and then leveraging fame for profit.\u201d What exactly is the moral value of 21st century sport? Our \u201cMoral Maze\u2019, tonight. The panel: Melanie Philips, social commentator on the Daily Mail; Claire Fox, from the Institute of Ideas; Matthew Taylor, formerly Tony Blair\u2019s Chief Political Advisor, now Chief Executive of the RSA; and the science historian Kenan Malik.  Matthew Taylor, you\u2019re a \u2018Baggies\u2019 fan \u2013 that\u2019s West Bromwich Albion, now don\u2019t ask.  Are \u2018Baggies\u2019 morally uplifting?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tWell they can be, actually. I\u2019m a sports moron, I even got excited the other day about watching horses walking sideways. While I think the case for sport can be overblown I still think it has a special power, even a kind of moral force which I think inspires individuals, and \u2013 as I have seen at West Bromwich Albion \u2013 can bond communities."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\t(Laughter). Melanie?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tWell look, I must come clean; I\u2019ve got two left feet and don\u2019t know one end of a pitch from another. I think that aspects of sporting endeavour do promote moral virtues, but I also think there\u2019s something a little bit suspect about the hysteria which it seems to promote. I think sport has neutral aspects which can be used for good or bad."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tI think sport embodies values, but those values can be good or bad, and they\u2019re largely intrinsic to sport. Sport is there to enjoy, to achieve greatness. But we should not see sport as a means of \u2018doing good\u2019 in the world; it\u2019s not a way of changing the world."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI worry that there\u2019s too much pressure on sport at the moment, to deliver a range of moral, social, political outcomes that actually destroys the spirit of sport. For me, sport just is about watching those breathtaking achievements of men and women doing things that we all recognise as human even though none of us, or very few of us have a chance of doing them ourselves."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tHmm, I could see you on that pommel. (Laughter). Our first witness is Mihir Bose, former Sports Editor of The Daily Telegraph and of the BBC, in fact. More to the point, the author of \u2018The Spirit of The Game\u2019, which is on ethics and politics of sport.  Has the game got a spirit, Mihir? Aren\u2019t you in danger of romanticising people who run around in circles, and that kind of thing? Look at these badminton people, for instance, not much \u2018spirit of the game\u2019 there?"
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tNo they have fallen foul of the spirit of the game, that\u2019s why they\u2019ve been disciplined. I think there is a spirit in the game, the whole basis of sport \u2013 and this country created sport back in the 19th century \u2013 okay with a bit of spin doctoring by Thomas in Tom Brown\u2019s school days, presenting Thomas Arnold as a man of sport when the only sport he cared about was walking.  But nevertheless, there was morality very much a part of sport; that you not only improve your body, you not only be athletic, but you be a better person. Sometimes it can be exaggerated, but I think on the whole sport does have values. The example I gave is last year, when the Indian wicket keeper captain Mahendra Singh Dhoni, not noted for Ghandian qualities, withdrew an appeal for a run out which was technically quite correct, because he felt it was ethically not good. In other walks of life, that doesn\u2019t normally happen."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\t\tKenan Malik, your witness."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tYou say that badminton players are falling foul of the spirit of the game, but in other circumstances we quite accept that. So when Chelsea won the Champions League, not by playing \u2018The Beautiful Game\u2019, but by hoofing the ball around for 90 minutes, everybody thought that was good.  When Chris Froome was prevented by team orders from winning, in order than Bradley Wiggins should win, everybody thought that was wonderful. So aren\u2019t, in different circumstances \u2013 isn\u2019t there double standards here, when you talk about morality?"
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tNo, there aren\u2019t double standards. Actually, there was a lot of criticism. People would have wanted Chelsea, particularly the non-Chelsea fans \u2013 myself as a Tottenham Hotspur supporter, who were deprived by Chelsea winning, because they can\u2019t get into the Champions League \u2013 by playing beautifully. But you know, sport at the end of the day is played, athletic activity is one thing, the moral purpose is part of the rules and making sure you don\u2019t fall foul of them."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tPrecisely, and isn\u2019t there therefore a tension between this notion of wanting to win at all costs, and what you call a moral desire. Because if you look at sport, ball tampering in cricket and diving in football, that kind of pushing moral limits to the very edge. That\u2019s the very essence of sport, isn\u2019t it?"
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tNo, actually sport is capable of changing society, and I\u2019ll give you two examples, both from cricket. When cricket came to India, brought by the British, and being played by the Indians, what happened? One of the major changes was- a great player that emerged was Baloo a so-called \u2018untouchable\u2019, or what Ghandi called \u2018Harijans\u2019 later. And this was a man coming from a community where historically, in India, a shadow of this person could be considered to foul, to be evil for the upper class Indians. Yet he became a major player.  Another example, let me give you the other, Hashim Amla became the first South African to score 300 in a cricket match. Twenty years ago he would have been confined to a particular area of South Africa ."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tI\u2019m not sure even you would say that it was cricket that brought about the fall of apartheid. Cricket\u2019s interesting, because the whole point about cricket initially, was not to transmit morality, but the values and pride in Empire and in class; to teach gentlemen to be gentlemen, and the plebs to be plebs."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tTrue. Cricket was an educational tool for the British, but in cricket-"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tThere\u2019s not anything very moral about that, is there?"
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tNo, no, but in cricket you have the basis of an appeal system. You do not get a decision unless you appeal to a man in white, therefore there is a basis that the appeal system is morally justified. But you try and appeal so that you think if a batsman is out caught behind, you do not appeal. There are people who force-"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tWhat you\u2019re saying is there are rules in sport. There are rules in all aspects of life, but the point about rules in sport, and the point about sport, is that it is the breaking of the rules. It is the pushing of the rules to the limit that we find so entrancing; that\u2019s why we find the bad boys in sport- the McEnroes, the Cantonas \u2013 they\u2019re the real heroes."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tWell, the rules are broken, but the fact is the rules are set out to be fair. In any society rules are broken, but in other forms of activity, first of all they\u2019re not in public view. What a banker does is not in public view, so you don\u2019t know, if he has broken the rules it would require an investigation and after many years it emerges. Whereas in sport it is there to be seen."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMelanie Philips?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tI mean, you talk about rules, and clearly sport has rules. But other activities have rules. You could say that the rules of sport encourage people to be fair, to respect the rules, to respect the prowess of other people taking part. But you could apply that to the \u2018Moral Maze\u2019 programme. What is it, in your view, that is intrinsically moral about sport?"
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tIt is actually finding people competing against each other, and observing certain rules that are fair. This is a competition remember. The \u2018Moral Maze\u2019 is not a competition- (Laughter)."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tOh I don\u2019t know about that. (Laughter)."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tYou\u2019re not given marks at the end of it. But you know, this is a competition, and you are trying to win by not cheating. In most other aspects of life, when there is competition, what you try and do... When there is, for instance, a presidential poll, or a national election, you try and cheat. If you can cheat and get away with it, fine. I\u2019m not saying in sport you do not try and cheat, but if you cheat in sport, you are broadcasting that cheat and you are clearly being identified."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tOkay. Without wishing to stretch this analogy too far, I could say that the \u2018Moral Maze\u2019 is a more perfect example of co-operation, and therefore moral altruism, because we\u2019re not trying to win. Whereas the point about sport, competitive sport as you correctly say, is that the competitor is trying to win. Now there\u2019s nothing intrinsically moral about winning. Winning means doing somebody else down."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tYes, but if you can win and at the same time do him down, but do him down fairly, you have established a principle there, which is really elevating."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tSure, but that\u2019s the manner of winning, I quite agree with you. But what about winning, isn\u2019t winning the whole point of competitive sport? There is nothing moral about winning, one could argue."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tNo, but winning is the basis of the life we have. "
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tSure."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tAll human beings want to be better than other human beings."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tIndeed."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tThere\u2019s nothing intrinsically wrong about that; there\u2019s nothing immoral about that."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tBut hang on. There may be nothing immoral, but there\u2019s nothing specifically moral. You could say, for example, that winning involves aggression. There\u2019s nothing wrong about that, because it produces great benefits, but there\u2019s nothing moral about it. I\u2019m trying to get you to explain what is intrinsically moral about sport."
+            }, 
+            {
+                "speaker": "Mihir Bose ", 
+                "utterance": "\tWell, the fact that it is a competition based on rules and the rules are fairly defined. For instance, we all are trying to earn money, but some of us \u2013 or so we are told \u2013 try to earn money and pay very little tax, and try and evade tax or avoid tax \u2013 you know, one is legal and the other is illegal. But in sport, if you do that sort of thing, you are immediately branded and shown to be not a fit and proper person.  Now I\u2019m not saying \u2013 that doesn\u2019t mean that cheating doesn\u2019t happen in sport, or people don\u2019t take advantage. But the fact that sports broadcast it, and say \u201cThis is how you do it\u201d, and the basic thing is sport is done publicly. So, if somebody breaks the rules, or behaves badly, they\u2019re immediately branded."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMihir Bose, thank you very much indeed. Our next witness is Matthew Syed, who\u2019s the former Olympic table tennis player, now sports and feature writer for The Times. On the line from the Olympic Park, as it happens. Matthew Syed, you\u2019ve been there; is ping-pong, is any sport a force for good in the world?"
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tI think on occasions it has been. I think in apartheid South Africa, the isolation of that nation, because of its laws on race, was part of the explanation for political change. But I think we tend to exaggerate the power of sport, both for political change and indeed for changing the characters and the moral virtue of the people who play it.  We tend to, in my view, just mythologise the meaning of sport. Largely because we want to have an additional reason to enjoy something which is, by and large, merely an entertainment."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOoh, that sounds so empty and soulless. Surely as an Olympian you\u2019ve noticed those kind of, real transcendental moments that occur, when- you know, the other day when won against Phelps, and they both were so moved by it. Surely there\u2019s more to it than just entertainment?"
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tWell it\u2019s certainly enjoyable to watch. It\u2019s certainly something which the people who win enjoy enormously; the people who lose tend to not enjoy it, and those who are supporting the people who lost tend to feel a great deal of pain. Sport is by and large a zero sum game. It\u2019s something which you either win or lose, and the emotions that you described are generally a mirror image of the disappointment that is suffered elsewhere."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tBut in terms of a sense of solidarity, the fact that people like myself, who\u2019re not sporty, can watch and gain so much from it. You\u2019re saying it\u2019s entertainment, but there is a sense of admiring the human excellence; the fact that people are forcing themselves through self discipline and so on, to really overcome what they could do last week, or last year.  This is a very human activity, a very purposeful activity, is it not?"
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tYou described the competitive struggle, that there are people attempting as it were, to defeat the opposition. That would be equally true of a monopoly tournament, or a cluedo tournament, or a charades tournament, or anything else. Any other invented world with arbitrary rules, where people compete against each other.  I\u2019m not trying to decry sport at all, I\u2019m just trying to drill down into what it really is, rather than what we try to make of it."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWell I understand your avoidance of being over romantic, but you seem to not be prepared to say there\u2019s any specific arena called \u2018sport\u2019 that contributes anything positive to society. I\u2019m just challenging that really. Just, even in terms of the respect for fellow competitors; how do you explain that if it\u2019s just \u2013 almost  Darwinian the way you explain it \u2013 or just part of the entertainment industry, like tiddlywinks."
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tWell there definitely are, in sport, people who respect their opponents, and have tremendous respect for the rules, and conduct themselves with dignity and courtesy, and they\u2019re rather inspirational. There are also athletes who don\u2019t respect the rules very much, and aren\u2019t courteous towards their opponents, and are not particularly inspirational.  So I think you\u2019re absolutely right, but we mustn\u2019t just focus on the good bit, without also looking at the bad bit.  One thing I\u2019ll just add to that, is that there is evidence that when sport is coached by inspirational people, who try and convey messages that go beyond merely winning and losing, yes it can have an effect on young people. But without those inspirational people, it\u2019s typically morally neutral."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tJust one last quick question; our previous witness talked about competition as though - somehow the intensity of competition is almost seen as a negative, because it can produce people being overly brutal. As you\u2019ve just said you\u2019re morally neutral on it, do you think that competition is a good thing, or can be a good thing? Intense competition \u2013 winning at all costs? "
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tI certainly think that in order to be successful in sport you need to be intensely competitive. But if you take the great sportsmen of the last fifty years, some have been highly competitive but nevertheless highly respectful of the rules.  I think of Roger Federer, and Rafa Nadal, who are terrific human beings in addition to being highly competitive individuals. There are others on the other hand, who have had a less benign attitude towards the rules and opponents.  I guess what I\u2019m trying to say is there\u2019s no necessary connection between competitiveness and a lack of moral virtue, any more than there is between competitiveness and virtue."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMatthew Taylor?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tYou said that sport is a zero sum game; actually I\u2019m a football fan, and of course football is a negative sum game \u2013 there\u2019s only one team that can win the Cup, only one team that can win the League. So there\u2019s a lot more misery than happiness as a football fan, that\u2019s not just because I support West Brom.  Why is it then that people persist with it? Is it a kind of false consciousness do you think?"
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tNo, I think that sport is a magnificent, uplifting entertainment. It objectifies hierarchy; it gives us a very clear, unequivocal winner, and an unequivocal loser. In great contrast to the grey areas of normal everyday life."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut isn\u2019t that exactly what is amazing about sport? That, as you say, it is hierarchical, but it\u2019s also highly solidaristic in the sense that what we see at the Olympics is the same as we saw at street parties. Where you see people that are complete strangers, throwing their arms around each other, singing the national anthem. For once in our society, which is overwhelmed with individualism, that individualism drops away and we\u2019re part of the tribe again."
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tYes, I think that\u2019s a really good point. I think the anthropologist thought is fascinating, because one can talk about tribalism in terms of the followers of football teams. You can also talk about nationalism in the way that we create a solidarity around the national Olympic team, for example.  Remember that, like nationalism, tribalism can be double edged, it often leads to great divisiveness between rival tribes. There has been violence; the same thing can happen at the national level where it morphs from nationalism, to a slightly more troubling Zenophobia, and that we think it confers a certain superiority over others.  I think it can be a healthy form of solidarity, but if you look historically and deconstruct what\u2019s actually happened, it can have negative connotations too."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut it doesn\u2019t \u2013 let\u2019s take us back to the point that Claire just made, which is that yes, people want their team to win; they want their country to win, but generally speaking everyone knows that this is taking place within the parameters of sport. At the end of the match you go down to the pub and you argue about it, or whatever it might be. In that sense sport allows us to express those kind of tribal things, but in a way which doesn\u2019t actually damage society. So it\u2019s a kind of outlet, and therefore in a sense it has a moral force; it allows us to express those kinds of needs that we have, but to do it in a way which isn\u2019t destructive in the way that, I don\u2019t know, fighting wars is."
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tWell that is a wonderful thing if that\u2019s what happens. But let\u2019s just look at the alternative, where political systems used elite sporting success as a way of demonstrating superiority on a global stage-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut you could say the same about the Arts, couldn\u2019t you?"
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tWell precisely, you could. So whilst you paint the case for its moral virtue, there is of course the alternative position, where Castro and the Soviet Union used sport as a way of legitimising their political regime and ideology, in a way that was subversive to the interest of the people in those nations."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tI have to kind of take you back to what\u2019s happening around us at the moment. There is something very, very special, and it isn\u2019t all hype. There is a kind of togetherness, there is a kind of mood of national joy, and I can\u2019t think of anything else that is able to do that. In denying sports specialness, it seems to me that you\u2019re failing to recognise that something amazing is happening."
+            }, 
+            {
+                "speaker": "Matthew Syed ", 
+                "utterance": "\tI agree that it does have tremendous power, I\u2019m merely querying its moral power. I don\u2019t see that. Just to rewind a little; this is a debate that\u2019s been going on for such a long time. Socrates, Plato, Aristophanes; they loved sport. The Ancient Olympic Games survived without interruption for 1200 years, and it is a testament to what sport can do emotionally for human beings, there\u2019s no doubt about that. But they tried to give it a moral case too; they talked about how it creates character and virtue, and tribal cohesion.  All I\u2019m saying is, if you look at the evidence in its totality, it doesn\u2019t stack up."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMatthew Syed, thanks very much indeed for joining us tonight. I hope you didn\u2019t miss anything while you were doing so. Thanks a lot.  Our next witness is Jenny Price, who\u2019s Chief Executive of Sport England, of course. What\u2019s the wider case for sport, the moral case? If there is one."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tI think there is one. I think if you play sport, just as an ordinary participant not the extraordinary experience we\u2019re seeing people have on the park, then you are going to be exposed to \u2013 as other witnesses have said \u2013 you\u2019re going to be exposed to right and wrong. To winning and losing, to competitive structures, to the consequences of breaking the rules, very immediately in the case of the badminton players that we\u2019ve seen today. And that has to be a good thing.  Although I would say, it\u2019s not a panacea. It is perfectly possible to play basketball at 8 o\u2019clock in the evening and go out and break windows at midnight. You do have to put other things around it, if you want it to have a beneficial social effect."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMelanie Philips?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tCan we just expand this argument a little bit? Isn\u2019t there a case for saying that sport, in this country, is used quite cynically, and quite disreputably? By organisations such as yours, Sport England, to promote the country for the purposes of revenue, to line the pockets of corporate sponsors, and to produce a kind of artificial \u2018ra ra\u2019 more fitted, I would suggest, totalitarian countries?"
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tNo, I don\u2019t think so. I mean we are about promoting participation in sports, so we are about individuals getting out there and playing. I think it is perfectly possible for that to be a good thing, for it to have nothing to do with the undesirable things that you have just described. It is individuals having an experience, and learning from that."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tGranted that we\u2019re watching individuals perform magnificent feats of athleticism, but it\u2019s not individuals is it? I mean this is real garbage, isn\u2019t it? This is countries, and some of them are very, very nasty countries, coming to our country - countries like Iran, like Syria, like China \u2013 and being treated as equals, and being elevated to respectability while their people are dying at their hands.  I mean, what kind of a moral outfit is the Olympics, for heavens sake? It\u2019s totally immoral. Or possibly amoral, or both."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tI think what you\u2019re seeing in the Olympics is extraordinary competition, and incredible endeavour. I think you really have to take the athletes as much as individuals, as representatives of their country."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tThis is a real cop out, isn\u2019t it?"
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tWell, no. I think when you look at how the audiences are responding, there is a certain amount of supporting a team. But there is an awful lot more in what I\u2019ve observed in the last three or four days, of supporting individuals, respecting excellence, respecting the many, many years of endeavour that every single one of those athletes has had to put in, in order to perform on that stage. Sometimes, in extremely difficult circumstances."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tBut isn\u2019t there something a little bit Fascistic about the Olympic ideal itself? All this worship of the body, which is \u2013 it has horrible historical resonances; worship of strength, worship of power, worship of aggression, channelled aggression.  There\u2019s not a coincidence that we\u2019ve heard about the Greeks. The Greeks contributed much to civilisation as we know, we are doubtless all in their debt. But they\u2019re also pretty nasty people, they weren\u2019t exactly moral. And look at the Berlin Olympics-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tCan you stop the question somewhere?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tIsn\u2019t there a connection between these things?"
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tI think that it is quite risky to characterise the whole of sport by what\u2019s happening in the Olympics. Sport is a whole continuum; for the children who play on a Saturday morning, to the Olympians we\u2019re seeing now. And the end of sport I find it very easy to defend, from a moral perspective, is that participation end. Where you may not have a perfect body, and you may not win all the time, but you do learn about competitive structures and winning and losing."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI\u2019ve been following Sport England and some of the legacy schemes around the Olympics for some time. Most of the demands have been that sport fights crime, antisocial behaviour, takes on obesity, builds communities and so on. These instrumental demands, what on earth have they got to do with sport?"
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tI can see why you ask the question, and I think at the heart of everything that government funding in sport has to do is a really good sporting experience. Everything comes from that. There is no point starting from another end, but it is also undeniable that if you do play sport, you are likely to be fitter and healthier."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWell not necessarily. You\u2019ll know that there\u2019s many injuries \u2013 but what I\u2019m saying is, aren\u2019t you killing off the spirit of sport if you turn sport into a kind of national keep fit regime? It\u2019s kind of public health zealotry gone mad, every time you want to go for a swim. I mean it\u2019s ridiculous. You really are \u2013 and I\u2019d like a few good bodies around, that\u2019s what sport\u2019s about."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tI think if you go in waving the public zealot banner, then you\u2019re not going to persuade very many people to do sport. The way we try and sell it actually, is you will have a good time, and you will enjoy it."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tBut I don\u2019t want to you sell-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tHang on, let her finish this, Claire."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tAnd therefore I think it really isn\u2019t\u2026 The whole point about using it for social ends is to give people a great choice of something good to do."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tBut it\u2019s got nothing necessarily to do with doing it. Can I put it you that one of the problems is, that if you promote sport simply as a kind of inclusive \u2013 I mean, the Olympics have been proclaimed as the most equal games ever, everybody wants to talk about fairness, inclusivity, participation.  The truth, is that sport is the opposite of that. It\u2019s exclusive, elitist, some people are hopeless at it \u2013 I\u2019m one of them. We can cope with that. Why do you insist on levelling it out?"
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tPerformance sport is elitist, but performance sport is not the whole of sport. The swimming you do, the gym exercises I do, the table tennis I play, are not in the league of Matthew Syed, or indeed of the performance that we\u2019re seeing today. It doesn\u2019t make it any less \u2018sport\u2019, or any less intrinsically valuable."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tKicking around a ball on a Saturday; we all enjoy those bits of amateur sport. The point I\u2019m making is, there seems to be a lack of comfort- whatever, from you, in competitive sport. In having beautiful bodies, somehow seen as Fascistic, that people can win, are excellent, and some people are hopeless and can\u2019t participate at all."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tNo, I\u2019m perfectly comfortable with the principle that there is a talent triangle with very few people at the top who are fantastic. They will inspire lots of people to get in, and the reason some people do sport, and play it, is because they think they can be excellent. The reason other people do it, is because their friends do it, or because it makes them feel a little bit better, and that is fine. I think it\u2019s quite wrong to say morally, because the Olympics might be capable of being criticised, the whole of sport has to be characterised by everything that-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tCould I just ask you, just in terms of what\u2019s likely to inspire \u2013 you know, \u2018bikeability\u2019 which was kind of pushed forward as everybody improve your road safety, and everyone get on your bikes. Or, do we think that Wigan\u2019s getting a goal is likely to make people take to their bikes?  Over-instrumentalising, you are killing off the real aspiration for excellence."
+            }, 
+            {
+                "speaker": "Jenny Price ", 
+                "utterance": "\tWhere we win most medals, and cycling is a great example, is where we inspire greatest participation. So there clearly is a connection there somewhere."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tJenny Price, thanks very much indeed.  Our last witness is Sam Tomlin, who\u2019s research officer for Sports ThinkTank, and co-author, more to the point, of a paper on this very subject we\u2019re discussing, called \u2018Give Us Our Ball Back\u2019. Which has been drawn up in conjunction with Theos, which is another think tank that specialises in religious and moral issues.  So, you\u2019ve done this long study; what social and moral benefits do sports confer, do you conclude at the end of it?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tWell I think I\u2019d probably agree with a lot of what\u2019s been said already. I don\u2019t think there\u2019s-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tWell hang on, what\u2019s been said already has been completely contradictory. (Laughter) So\u2026"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tI\u2019m not sure that\u2019s entirely true. I think what we\u2019re saying is that sport has no inherent moral value. We do believe that it does have inherent value in itself, and in fact when sport is used as a public policy tool primarily, we actually lose a sense of that value specifically within sport itself. But, as far as morals are concerned, it can encourage good behaviour; it can encourage bad behaviour, and there are many examples of both."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMatthew Taylor?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tAs I understood it, part of your argument is that you worry that because we concern ourselves with the instrumental value of sport, we lose its kind of intrinsic worth."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tHe just said that, in fact."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tSo, I don\u2019t understand really why you\u2019re asserting this as a dichotomy? There are loads of things \u2013 religion, art \u2013 where we talk about instrumental benefits. We say religious people do good in society, the Church contributes to peace. It doesn\u2019t mean that we say it\u2019s spiritually empty. We talk about Arts and its contribution, it doesn\u2019t mean that we don\u2019t care about aesthetic value. So why this dichotomy?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tWell I think I would say that I believe it can have both of these things, but when it is used primarily as a political tool we lose the sense that it can produce value in and of itself.\tI think-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut doesn\u2019t sport subvert? You see, people say about the Olympics \u2013 we\u2019ve heard Melanie in a way implying it \u2013 that the Olympics is an opportunity for people to use sport for political purposes. But in the end the way that we respond to individuals, the way the crowds react; it subverts that attempt, doesn\u2019t it? Like Jesse Owens did in 1936, sport in the end jumps out of the box that politicians might try and place it into."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tNo, and I think that we would want to encourage the idea that sport can produce some elements of public utility. At the same time, we\u2019ve seen many examples within society of politicians using sport, for example the participation agenda. We want it to make use healthier, so we ask it to produce a lot of different elements around\u2026 Sport England for example, have been given around \u00a31million over the last four years to make people healthier. There was a target of one million people for more participation, over the last four years. We only reached about 500,000."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tThis is really interesting to me. Is your problem therefore with the very idea of instrumentality, or just that it\u2019s failed instrumentality? So, had Sport England met their million target, would you have said \u201cJolly good, that\u2019s great. Sport can be used for instrumental purposes.\u201d"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tNo. I think that would have been, that would have negated my argument certainly more. But the reality is that we always ask it to do more than it can in society. As a result we end up being very disappointed when it fails, and the overinstrumentality means that we don\u2019t get as much out of sport as we can, and we lose the sense that sport has innate value in itself. Just as the Arts, or culture do as well."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan Malik?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tYou seem to be suggesting that sport has social value."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tYes."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tBut not necessarily moral value. But can you make that distinction that sharply? Doesn\u2019t something that has social value also have moral value? Precisely because it has social value."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tWell it depends what you mean by social value, I suppose. Within Nazi Germany, social value would have meant something very different. And actually, as we\u2019ve heard in the programme, the 1936 Olympics was used, perhaps most effectively throughout history, as a tool of legitimising a social circumstance, of racism. So it very much depends on what the social values are, necessarily."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tBut imagine a society where sports did not exist. Now, that would be a poorer society, not simply in social terms, but in moral terms too. Wouldn\u2019t you agree with that?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tNo, I wouldn\u2019t say so. Again, I\u2019d go back to this element that we\u2019ve been discussing. Sport has no inherent moral value. Kicking a ball, or running in a field, is not good or bad. The most important thing is the context in which the sport takes place."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tSure. But when people say sport has a moral value, they\u2019re not simply saying \u201cKicking a ball has moral value\u201d. They say that it builds character, people learn discipline, they learn rules and so on. It is that aspect of sport that has moral value. Don\u2019t you see any intrinsic good in that way?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tWell, again I would really go back to the point that it can produce those things, but it can also produce bad behaviour as well. Look at any-"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tOkay. Let\u2019s have a look at this question of intrinsic value."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tYes."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tBecause you seem to be suggesting that sport has intrinsic value, but has no extrinsic moral value."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tYes."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tWhat kind of intrinsic values do you think sport has?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tI think in the same way that we value culture. In the same way that we value art; it can help to promote a full life. When I play sport, and as I have for the whole of my life-"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tThat seems very nebulous. I mean, everything promotes a full life in a sense."
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tWell, indeed. Many things do, and I think sport is one of those things that does. I\u2019ve played sport all of my life, not because I wanted it to make me healthy, but actually because I enjoy it."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tBut what about the argument that Matthew Syed made, that what it does is objectified hierarchy. Makes you competitive, makes winners and losers. Do you accept that as one of the intrinsic values of sport?"
+            }, 
+            {
+                "speaker": "Sam Tomlin ", 
+                "utterance": "\tYes, I guess it could\u2026 Once again, competitiveness can lend itself to positive moral outcomes, depending on what that society determines as positive moral outcomes. It can also produce negative as well. So there\u2019s nothing intrinsic that says \u201cCompetitiveness is good or bad.\u201d"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tSam Tomlin, thanks very much indeed. Well and awful lot to go on here, panel. Let\u2019s start with our first witness, Mihir Bose. It\u2019s capable of changing society, sport, and he produced a couple of examples in the subcontinent. Mainly - if I can attempt to telescope a lot of things that he said \u2013 maybe this idea of fair play, rules based fair play, carried out in public, which is a crucial element of his particular argument. Now what did we make of that? Matthew?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tI have to say that whilst I wanted to sympathise with Mihir Bose, I thought that he was overly dependant on cricketing anecdotes. He avoided talking about the repeated examples of match rigging, for example, which were only brought into the open because they were revealed by the press.  So I found actually that the more that he was probed, the less I could see of his moral core of sport. Mind you, having said that, I think other witness got to it better."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWell I agree that the \u2018in public\u2019 doesn\u2019t quite work when huge amounts of things happen behind the scenes that some would argue-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tYes, but you know what he means, Claire. Don\u2019t you? The whole thing is played out under the absolute spectacle of public\u2026"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes. I\u2019m not even cynical about this, but you just know people were listening to that and thinking, \u201cBut what about doping? What about genetic manipulation? What about the swimsuits?\u201d"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tWhat about footballers diving?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes. All I\u2019m saying is when he says \u201cIt\u2019s in public\u201d-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tThat\u2019s in public, and it\u2019s reprehensible."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI just wasn\u2019t convinced by that. I think the relationship between sport and politics has been there forever, I\u2019m not doubting that. But I think he was overplaying that sport changed the world. For me, Tommy Smith, he can go out and make that signal \u2013 that Black Power signal, because he got a gold. That was the point, that was the whole thing about it. So he was sporting excellence, and combined with then\u2026."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tIn a sense Mihir Bose actually said, rather interestingly I thought, that winning was actually the basis of the life we lead. Which, gets up your nose, Kenan."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\t(Laughter) I think that if sport was as he wants it, purely moral \u2013 everybody abides by the rules, it would be a very boring thing to watch."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes, that\u2019s true."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tThe whole point about the essence of sport is that people try and push things; push the moral edge, push the rules. Which is what we all hate, for example diving in football. But we would hate football if no diving existed, if it did not happen. It\u2019s part and parcel of sport, and the drama of sport."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMelanie, our second witness Mathew Syed, who I thought was absolutely terrific. Whether you agreed with him or disagreed with him fundamentally, was a terrific witness. That central point that he made, that we\u2019re attempting to mythologise something that is just basically entertainment, or a little bit of individual or team enjoyment."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tYes. I didn\u2019t want to have sympathy with Matthew Syed, because I wanted to have sympathy with Mihir Bose. Because it\u2019s a question of head and heart, or heart and head. But I have to say, I didn\u2019t think Mihir Bose made his case very well because he didn\u2019t show me what the intrinsic value of sport was, and I thought Matthew Syed was extremely impressive. He basically said it can be a force for good, or on the other hand it can be a force for bad, and we shouldn\u2019t exaggerate the moral value of something that basically just entertainment.  For heaven\u2019s sake, it is just a set of games."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tHe did say that, but it also seemed to me that he also recognised that sport does have this kind of transcendent quality, and he spoke to that as well. That\u2019s what we\u2019re seeing all around us. And you know, you have the last night of the Proms, but in a sense the last night of the Proms seems to be a way of making music imitate sport in order that it generates that kind of mood.  Other forms of collective activity don\u2019t do that, they don\u2019t energise."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tBut what do you mean by transcendent? What he was saying was, this could be good or bad. What do you mean by transcendent? If you mean you identify and support the endeavour, and the pain, and the achievement, and the heroism of the individual, fine."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tIt\u2019s the point at which-"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tBut it can also have a crowd that is roused to nationalistic fervour, as we know, sport has been used for that purpose. "
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tOf course you can."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tThat\u2019s what he was saying."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tOf course you can. But we live in a very individualistic society, and for me whilst I recognise that crowds can be bad things too, that moment when a whole group of people ,for no self-interest at all, join together in wanting something to happen, and celebrate it \u2013 it is a marvellous thing. And you don\u2019t see it in other "
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tPeople join together can be a force for terrible bad, as you know."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes, but I think there\u2019s a number of things. Actually, I thought, even though I was cross-examining him, that Matthew Syed made a very convincing case. I think when he\u2019s just said \u201cIt\u2019s just entertainment\u201d, he wasn\u2019t being over glib about it. For me what he was saying was, \u201cWe\u2019re loading too much on sport\u201d, and actually our last witness I think made that very clear. Or certainly she represents \u2013 the second to last, from Sport England \u2013 represents a tendency that basically wants to sport to do what politicians can\u2019t do, what nobody can do.  Matthew, you just made the point that we live in a very individualistic times, but now we can have great crowds coming together for the force for good. In that sense there\u2019s a bit of wishful thinking. I think because Matthew Syed is an Olympian, he then indicated what he admired most about sport. So, he didn\u2019t make it as soulless as I dreaded he was going to."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tBut he did make the point didn\u2019t he, panel, that sport was a zero sum game. For every triumph there\u2019s defeat. But he also seemed to be making the point that morally it was a zero sum game as well. Claire?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWell yes, but also, one of the problems that we\u2019ve got at the moment is that sports individuals are being asked to be moral role models for our nation\u2019s youth. And I think what he was trying to say was, \u201cThey\u2019re good at sports-"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tBut they are in-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\t- But why should they be carrying the whole burden of representing moral good or bad, at any given time?"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tIf sports wasn\u2019t a zero sum game, we would not follow it, it would not be entertaining. It\u2019s precisely because there are winners and losers that it is ent\u2013 because there\u2019s drama to it. I think the worst thing that has happened to sport, is loading it with all these extrinsic aims, to make it into a vehicle for social good. That undermines the whole point."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tBut when we had Jenny Price, our third witness, I thought none of you really got the ball into her net, so to speak. Even on instrumentation."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tNo, because Sport England have for many years basically said \u201cSport has got to deliver on X, Y and Z\u201d. They\u2019ve written reams on it, and I\u2019ve read all of those reports. Then when you ask them, they say \u201cOf course we think sport is important, and winning and losing is important.\u201d In that sense, they move the goal posts. Let me tell you, the major contribution of Sport England to sport in this country has been to say that sport has got nothing to do with it, and that it\u2019s got to include people, and we\u2019ve all got to participate.\u201d Say you want to be a couch potato and watch it, you don\u2019t have to participate."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tLet\u2019s look at an example actually, of that instrumentalising, which I think has been powerful, which has been the attempt that football has made to fight racism over the last few years. "
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOh exactly, disastrous."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tWhich \u2013 no. No, I don\u2019t think it\u2019s been disastrous. Well as somebody who\u2019s stood on the terraces twenty years ago, and stands on them now \u2013 or sits on them now, I can tell you there\u2019s been a complete transformation of what goes on, and the attitudes that people have, actually. And that has been-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes, but now what happens is-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire, let him finish."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tThat\u2019s been driven by con- of course you get these difficult cases, but actually what has happened is that a working class sport \u2013 and it still is a predominantly working class sport \u2013 that sport has decided to tackle an issue, which is to do with racism, and done it incredibly effectively, and not actually in an overbearing pious way. But just kind of said, \u201cThis is the way football is, this is the spirit of football.  We don\u2019t slag people off because of their colour.\u201d"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tBut what\u2019s happened is the state has intervened in sport, and told sports fans how to behave on threat of the law. And that is happening increasingly through even in the Olympics-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tThat\u2019s not what\u2019s driven it-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\t- People have been arrested for saying the wrong thing."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tLet me push it on just for a second. Thank you Claire, thank you Matthew. Kenan, can we just get onto Matthew Syed\u2019s point, objectifying hierarchy. That, you really don\u2019t like, do you?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\t(Laughter) I never said that. I think-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tNo, he did. He did. But that\u2019s one of the things you don\u2019t like about it."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tNo, no. I think that\u2019s an important aspect of sport."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAh, I got you wrong."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tAs I said, if it did not have that we would not find sport entertaining. It is precisely because of those winners and losers, and it is that, that makes sport transcendent in the way we\u2019ve been talking about. It is that ability of people to push to their limit, that none of us can do, but we can recognise- that Usain Bolt moment, for instance. That is what makes good entertainment."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut it\u2019s not just that. I can meet with my mates who support West Brom; one of our great moments is watching us lose to a non-League team, fifteen years ago in the pouring rain at The Hawthorne."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWe do all und-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tThere is solidarity, and there is collectivism in losing as well as supporting Usain Bolt."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWe all relate to that, but in the end, what is magnificent is when they get gold. Or they come from behind and they get the silver. And in the end, Olympics with no medals is not good. You can say, \u201cit\u2019s all about taking part\u201d, it\u2019s not. It\u2019s about winning, magnificently, as humans."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tMelanie, last word with you. "
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tI think Sam Tomlin got it right. I think he said \u201cSport has inherent value, but not inherent moral value\u201d. Jenny Price was talking about the inherent values of sport; I think there are many inherent values, moral values are a different matter."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tOkay. That\u2019s it for this week, and indeed for this series. If you missed any, or all of it, don\u2019t forget our podcast, by the way. For now, from our panel: Melanie Philips, Claire Fox, Matthew Taylor, Kenan Malik, and from me, until the next series which begins in October, goodbye."
+            }
+        ]
+    ], 
+    "metadata": {
+        "authors": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "dates": {
+            "collection": "2012", 
+            "packaging": "2013-07-02"
+        }, 
+        "description": "A 65,000 word corpus of unanalysed dialogue transcripts from the BBC Radio 4 Moral Maze programme", 
+        "doi": "", 
+        "error_log": {}, 
+        "notes": [
+            "Each dataset comprises two columns of data, column 1: Speaker, and Column 2: Utterance", 
+            "Checksums are used merely to indicate whether this file has become corrupted and are computed using the md5 algorithm. For versioning it is better use the versions of this dataset from the Git repository for this corpus."
+        ], 
+        "tags": [
+            "dataset", 
+            "dialogue", 
+            "moral maze"
+        ], 
+        "title": "BBC Radio 4 Moral Maze Transcripts", 
+        "warnings": [
+            "This dataset contains transcripts from human conversations that were transcribed by a transcription service. Hence there could be transcription errors within the dataset that stem from human error."
+        ], 
+        "where": [
+            "University of Aberdeen", 
+            "University of Dundee"
+        ]
+    }
+}

@@ -1,0 +1,716 @@
+{
+    "data": [
+        [
+            {
+                "speaker": "MB ", 
+                "utterance": " Good evening, the violence in Syria is getting worse. Thousands have already died and there are more and more frequent reports of systematic massacres of civilians. As President Assad clings to power and opposition try to wrest it from him. His forces are well armed, he is still supported by Russia, China and Iran. But the practical difficulties of intervening to stop the bloodshed seem overwhelming. But if it gets worse, at what point does it become morally unacceptable to stay on the sidelines, and then intervene how, to support the rebels, we don't hear much about it, but they have committed their share of atrocities too. With what purpose, to stop the killing, to try to replace tyranny with democracy or as many in the Middle East maintain to further our own interests? If Syria, they say, why not Saudi? Libya may prove the exception, but the history of Western intervention is not a particularly happy one. The Arab Spring, which we cheered on, seems to be replacing tyrannies with Muslim fundamentalism rather than liberal democracy, with consequences for human rights at home and Middle East peace generally that are difficult at this stage to predict. What is our moral responsibility to Syria? That's the Moral Maze tonight, our panel, Claire Fox from the Institute of Ideas, the former Conservative Cabinet Minister Michael Portillo, the Catholic writer Clifford Longley and the science historian Kenan Malik. Michael Portillo, you were ministerially responsible for the British intervention in Bosnia, does that mean you're an enthusiast for the idea in principle?"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " I think sovereignty is a very important principle and I thought very hard indeed before pushing for effective military intervention in Bosnia and I regard it as a model of success, but I am displayed at how intervention has now become routine, I voted by the way for the intervention in Iraq and I repented at length."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Claire Fox?"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " Well, I cheered on those who fought the Arab Spring and I wish well those who are fighting the brutal Assad regime, that's because I believe in self-determination, people taking control of their own destiny and fighting for freedom. What I do not agree with is when the West hijacks that, piggybacks on it, and uses that great aspiration to intervene seems to me so they can morally grand stand about their moral mission."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Clifford Longley?"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " I was looking at the war crimes this afternoon, a modern presentation of them, which set out in what circumstances the state can have the right to intervene in the affairs of another state by armed force, and it seemed to me although they set the bar high, it is by no means inconceivable that that might be succeeded by circumstances in Syria."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Kenan Malik?"
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " There is a genuine dilemma here, the moral imperative is to intervene, yet the liberation movements that in the past could wage such struggle successfully have largely disappeared, so while I still oppose intervention in most cases, I also recognise there are problems with any answer one might give.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Panel, thanks very much indeed. Our first witness is Anas Nader, who is a spokesman for the London-based pressure group Friends of Syria. Which presumably in this context means enemies of Assad. Why should, in your view, the West have a moral responsibility to intervene in Syria?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Well, I'll base my reasoning on the actual foundation of the UN, the UN was founded with this mandate to protect sovereignty, but that was based on the moral reasoning, that sovereignty, protecting sovereignty would protect lives and the UN was formed right after world war one and two, where the main cause of death, genocide and war crimes were international wars between nation, but that has changed over the past few decades and the number one reason for death and war crimes in conflicts is civil war and regimes -"
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " So you are saying the moral basis for your case is to protect human life?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " To protect human life, absolutely."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Claire Fox?"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " Can I explore that as a moral principle? It seemed a little thin to me. Is it a cost benefit analysis situation? Does it depend how many people are killed, the level of brutality?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Well, it depends on all the other methods tried to stop that, so basically diplomacy was tried for over a year and a half in Syria, and other forms of pressure."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " I suppose I would just - if you look at something like Iraq, for example, more civilians were killed in the war to get rid of Saddam Hussein than he actually killed civilians. So what does that mean?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Absolutely, I'm not supportive of intervention in Iraq."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " So you count how many bodies there were then?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " You count as - when the coalition intervened in I shall rack, at the point they - Iraq, at the point they intervened, there wasn't really massacres going on, there was police brutality.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " So you are saying, if there is a massacre, you go N I am just saying, as a moral principle, it seems to me to be a rather arbitrary one."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " I think intervention should be in dictatorships, I think it's important on a moral level, to end killing and mass bloodshed.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " You made an interesting point when you said that the reason for, you know, any moral support for sovereignty was because of the numbers of people it would protect in terms of numbers, but I mean, there was a bit more to it than that. The whole concept of freedom and moral agency, determining one's own life, sovereignty had a bit more to it than just kind of like, we're looking after people and stopping them being killed. Aren't you ditching that at your peril?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " One's own life, that's what the Syrian uprising was all about, the right to demand -"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " So self-determination is inevitably undermined, is it not, if you can only have it delivered by external forces, why don't you allow the Syrian people the opportunity to forge their own freedom?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " They are trying to, but there's already some form of intervention when Russia, Iran and China are supporting and are arming the Syrian regime. And in a sense, this is what the majority of people are asking, they are asking for that support -"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " To claim the majority of the Syrian people, let's maybe go on to that, is there a danger, particularly in the West, that we turn these things into morally easy - the good guys over here and the bad guys over there. We all know Assad is a bad guy, but the Syrian opposition is not so straightforwardly the Syrian people and national liberation struggle. They are fragmented. Who the hell are you going to be supporting if you go in and say, I'll take that side?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " In many ways, they are fragmented because they are not being supported."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " They squabble amongst themselves, they are not sure what it is - you will know that yourself."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " I agree with you, obviously they are working in separate smaller groups, but it's kind of important to know that if the intervention happens sooner than later, then some sort of a unified command and control would have been in place for these rebels.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " So you are suggesting then that the only way that the Syrian people can determine themselves is if somebody paternalistically goes in and sorts them out and stopping them squabbling.  "
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " I think they will get there on their own, but the difference would be three years of bloodshed or a few months with the support of the West.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Just to clarify, you are Syrian yourself."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Born in Syria of Syrian parents."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Kenan Malik?"
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " You have talked about intervention to prevent massacres, but would you accept that the earlier the West gets involved and intervenes, the more of a voice it will have in the post Assad Syria, the more it will be able to direct post Assad governments towards Western friendly postures."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Well, in a sense, that might be true, but I don't think it's necessarily the case all the time. I think it could end up being more of a partnership. There would be more - they would have more of a ground to negotiate with a new government, with a more Western friendly government, but that doesn't obviously guarantee one or two election terms that would be always the case, and that shouldn't be the reason anyway for the intervention, the intervention should be on more moral grounds, protecting lives, regardless of what government we get, whether it's West friendly or not.  "
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " You say that shouldn't be the reason, but in a sense that's what many groups want, they want different foreign powers to intervene in order to get their support in a post Assad Syria."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " You mean many groups from within Syria?"
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " Within Syria.  "
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " The ones are asking, the ones who don't have national interest, that's a different story, with their own personal agendas, but I think when the people on the streets are asking for some sort of intervention - by the way it doesn't mean necessarily boots on the ground, it can happen in many ways, but when they are asking for some sort of intervention that protects them, even to allow them to protest in a more open and free way, these masses are now looking for any agendas, they are not asking for -"
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " I agree with you. I support that - those people on the streets who are fighting for freedom. What I'm trying to get at is what the consequences of intervention would be, you've already talked about divisions within the opposition, for instance the free Syrian army and the Syrian national council are deeply divided, the Syrian national council is deeply divided. Which faction, if the West intervenes, should the West support?"
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " That was the beginning, but recently the Syrian national council and the free Syrian army have been working together and co-operatically closely together. They are serving different purposes. The Syrian national council is a political pressure group that could help form the nucleus of a transition government, but the army is purely the militant arm or wing of the actual uprising revolution so I don't think they necessarily have to be one or the other, so I think the sooner we step in, the sooner the regional countries, like Turkey, steps in and supports them more openly, it would help provide more of a unified command and control, rather than working in small battalions, and prevent some of the mess in the future. We have to understand that with or without intervention, the war is going to carry on, the people are going to carry on fighting that regime and holding arms, but the sooner we help and support, the less messy it will get."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " That is an interesting argument. You say the sooner the West steps in, or anybody does, the sooner you will have a unified command, but you only have a unified command if the West imposes its ideas of what such a command should be, so again, you are looking to foreign intervention to create the opposition, shape the opposition, and not to the Syrian people to do so."
+            }, 
+            {
+                "speaker": "AN ", 
+                "utterance": " Well, then that means we shouldn't look at the foreign intervention necessarily as the kind of intervention where the governments will pick sides and will pick allies with themselves, that means the Western governments have to rethink the way they intervene, they have to intervene in the sense of protecting lives regardless of their agendas, so basically that should even stop them from having their agenda and try to support one group over the other.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Thank you very much indeed. Our next witness is Karl Sharro, who was actually an architect but is also a writer and commentator on Middle Eastern politics, he has himself a Lebanese and Iraqi background but family and friends in Syria itself. What in your view does the West really mean when it talks of a moral responsibility to intervene in the region?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I think in the case of Syria it is a very specific response because we are getting on the one hand a sort of moral projection and projecting the West as this kind of agent that acts purely on moral considerations, while in fact there is probably very little evidence of any actual intervention happening, so it's kind of the apex of this using interventionism abroad to boost -"
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " You reckon the West is assuming some false moral superiority, is that your -"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I would say there are two main problems on the principled moral level with the idea of Western intervention for moral reason. One is there is this assumption of moral superiority and the other is the lack of consistency in the record of Western governments in kind of projecting that sense of moral authority."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Clifford Longley."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Can I ask you this, is it there a level of atrocity in Syria by the Assad regime that would persuade you to change your mind?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I don't come to this with a distant abstract kind of approach, it is not that I am cold to the atrocities that are happening over there, and quite frankly it has been happening for a year and a half and we have grown sadly accustomed to the level of atrocities, but we have in these moments, that's where we have to draw on our moral strength and convictions."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " I would like to know how you are thinking about where it goes from here. Supposing it got twice or ten times as bad. At some point, would you say enough is enough?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " That is the calculus of death that distorts any understanding."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Do we have to do that?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " No, not at all. That's a false assumption, and circulated to kind of make the argument seem morally superior, when in fact it's not considered at all and it's not taking into consideration the full moral context and the political context in which these decisions have to be taken.  "
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " In terms of broad moral principles, is the basic premise behind the responsibility to protect the United Nations moral? Do you think it should not have been passed? Do you claim it, or do you reject it?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " If it is up to me, I would abolish the United Nations entirely and putting that aside, no, it shouldn't have been passed, because a kind of - it assumes certain assumptions that (a) the world and international relations and politics operate according to moral principles. However, we are only keen to express those moral principles by bombing other nations. It doesn't for example apply to the case of immigrants coming from Africa, who we callously close our borders to, there the moral principle doesn't apply, even though that involves death, people coming to Europe, but it's convenient -"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Many moral positions you would take I would agree with, so there isn't a great chasm between us, but what I am saying is if it's possible to stop atrocities going on, don't we have a duty to do so?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " The problem I think is a lack of context and a lack of understanding, previous action of Western governments, actually now we are asking to intervene in creating the situation at the moment, of course I can't respond to a very kind of severed formulation of what the situation is."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Michael Portillo?"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Do you mind if I take you away from Syria to Bosnia? I mean networks that case, we saw 8,000 men murdered in Srebrenica, we intervened, NATO intervened, the killing then ceased, I don't think another life was lost in combat. Was that not morally justified and successful?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I am not an expert on Bosnia, and I think quite frankly it's a bit of a diversion that a lot of people are engaging in now, to establish these false parallels, in order to kind of win an argument that they haven't illustrated their point in the current context. We are talking about Syria - that is not what we are doing on this programme."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " What we are doing on this programme is we're trying to get to the moral principle, so if you're against the intervention in Syria, we want to know whether that is for moral reasons or for circumstances that are particular to Syria."
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I am against intervention on moral principle, I am against the - the moral principle involved is highly distorted and doesn't understand what the real significance of the struggle for self-determination and freedom is. It's sort of infantilising to our -"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " That sounds as if it's particular to Syria again."
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " It's a broad principle.  "
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " So on your broad principle, when 800,000Tutsis were murdered in R want did a and nobody did anything about it in 1994, it was morally correct not to intervene and allow that genocide to occur?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " Again, I think that is a form of distraction for you to throw me into areas that I neither have the detailed historic knowledge of, in order to draw out the considerations that we are looking at."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " I am not challenging you on - ah, go on. You are sure there are cases?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " If I may continue, I am sure there are cases which warrant forms of interventions that I would probably subscribe to. Morality doesn't exist in isolation of political context and that's the problem, in formulating this in a sort of high school type abstracted completely denude -"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " I am not trying to do that. I am trying to take you to real example which have happened in history, and you are saying you don't know the history so you can't answer me, and then you say I am like a schoolboy."
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I am kind of shocked by your inability to talk about the specificities of Syria."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " What I am talking about is the specificity of the morality, which is the programme you have been invited on to."
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " I take that on board, but again I say the principle would for me have to meet two conditions for the side that would actually intervene. One that it's moral authority is drawn from a genuine sense of moral authority, that there's universal consensus on, and not merely the fact that we have the big guns, and a sense of consistency in projecting that sense of moral authority in cases where other people need it. Both conditions are not met with the proposal for Western intervention in Syria.  "
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Let me comment that your wish to achieve universality is undermined if you don't believe in the United Nations. How do you determine it?"
+            }, 
+            {
+                "speaker": "KS ", 
+                "utterance": " The simple answer to that is you and I both understand the lack of equality within the United Nations and the mere presence of the United Nations Security Council and the veto power for the five major nation that have the big guns again distorts all of that understanding, it's kind of rides over any notions of sovereignty and healthy understanding of moral autonomy and national self-determination, so it's absolutely a distortion of moral principle which by the way, as I understand it, through the legacy of the enlightenment, I'm not coming to this with cultural relativism.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Okay, thank you very much indeed. Our next witness is Dr Alan Mendoza, who is executive director of the Henry Jackson Society, which is a think tank that promotes the spread of liberal democracy. An overriding moral obligation to intervene?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " I think absolutely. If we're looking at the Syrian case, I think we have certainly reached the point where you have a dictator who has demonstrated his wish and indeed his willingness to carry out mass atrocities and will continue to do so.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " And if intervention results in a new regime that is more sympathetic to or tolerant of Islamic extremism for instance and therefore more threatening to us, that doesn't matter?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " There are two different points there. First time, we are looking at the current regime. It is difficult to conceive of a regime that could be worse for Western interests than Assad at the moment."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " We could have one that sheltered Al Qaeda."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " Yes, but - the first point is the dictator killing his people."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " Your argument is the West should intervene to me vent the masters that are now taking place and then leave the Syrians to decide their own futures."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " There are several forms of intervention, and I'm not sure which sort you're suggesting."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " You are the one who is suggesting it."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " Let me give you an example. You can go from the very basic of arming the rebels, hoping they will take things into their own hands, as we did partly with Libya for example. You can go to interdiction, safe areas, all things we've seen in previous interventions, or if all else fails and you feel it is warranted and if there is international agreement on it, to military intervention of some kind, but there is a whole raft of ways to get there.  "
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " What I am getting at is this distinction that you seem to be drawing between the idea of intervention to prevent massacres, to prevent bloodshed now, and the leaving of the Syrian people to decide their own futures post intervention, if you like. What I'm wondering is how plausible is that scenario? After all, isn't the very process of intervening to shape the decisions of Syrian people to their future, especially given the Friends of Syria want the West to intervene in order to shape - create a more Western friendly government post Assad."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " I don't know if the Friends of Syria want the west to intervene, they want the international community to intervene, and part of their argument is to get round the block that Russia and China have put on it. The Arab world support Syria right now. In Libya, we have recently seen an intervention that was supported across the border in many, many countries, not just the west but beyond. What happened, we went in and supported the rebels, we then left and the Libyan people have demonstrated this week their own future, they have taken that into their own control."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " We might come back to that, but I want to pursue this idea of intervention. Would you agree that liberal democracy is morally superior to dictatorships, authoritarian regimes, Islamist government and so on?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " Absolutely. Liberal democracy is the ultimate form of government as far as we're concerned. That said, it's very important, very cognisant to take what happens in each country after - or whenever there is an election or some attempt to enforce free will, you cannot force democracy on people, that is very important to note, you can't do that. It is the ultimate form of government, because it provides freedom of the individual and expression of choice. Any other form of government that doesn't inherently discriminates in some way, shape or form."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " I would agree with you on that, on both points. But my point is this: if foreign powers intervene in Syria, if there is a possibility of a nondemocratic, another authoritarian, another dictator, another Islamist government, doesn't it make sense, in your view, to continue to intervene to shape that future, so there aren't, for instance, more massacres in the future, imposed by an authoritarian government?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " If you look at two recent examples of governmental changes in the Middle East, it is quite interesting what has happened. Let's look at Libya, the West intervened quite rightly to stop atrocities and then Libya determined its future, yes it's unclear, but at the moment things are looking positive in terms of how Libyans have embraced that opportunity and gone forward. If you compare that with Egypt, where the West didn't intervene, if you look at what has happened there at the government that has emerged, and also the percentage of people voting there, I think you will see that the very act of intervention itself leads to greater participation -"
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " Would you have preferred the west to intervene in Egypt?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " They continent. Different case in point."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " I so want to argue with you about whether Libya is a success story, but it will distract us, people will recognise it's not such a rosy picture. It's interesting you raise Russia and China, and people have said it's incomprehensible and inconceivable that these countries would oppose this, based on their self-interest. Isn't the kind of realpolitik and self-interest there actually part of a fairly principled reason why you would have a foreign policy?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " I am not sure there's anything principled about realpolitik in that sense, certainly not morally principled. It's self-interested absolutely. You can say those countries may well be acting in their own national interests.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " It's just a moment ago you suggested that foreign policy based on national interest could be a possibly good thing, if the west did it in their national interest, you said Assad was an enemy -"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " I didn't say that. I have said that his regime is not pro-Western, but his regime is also anti a lot of other things as well. If you look at the support for terrorism and the destabilising effect abroad, Syria has been high up on that list.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " The reason I can't understand this is it is this inconsistency. It was only 2009 that the west were courting Assad, and I don't mean in a silly way, they were saying he is a pro-Western leader, somebody you can do business with, Sarkozy and Obama and so forth. I don't understand why it changed. What is the moral heart of this kind of intervention? I get realpolitik, whether I agree with it or not, I understand when people are going in for good reason, but when it's so flaky, people being killed, how do you make a moral principle about that?"
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " I wouldn't call it being flaky. Michael, in his previous questions, had raised issues in the 1990s which had led us to the position in the mid 2000s where responsibility to protect had been enshrined at the UN and it had been enshrined particularly because of the haphazard response in the 90s.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " But surely - Bosnia actually started it, where everything became humanitarian intervention. It seems to me to be inconsistent. It seems more narcissistic, about us saying we can't leave this alone, we will have blood on our hands, it will be our responsibility. That's not actually a guide to action based on principle. For which you're prepared to overthrow freedom, self-determination, and just invade countries, ultimately."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " There's no freedom and definitely determination in Syria."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " There won't be if the West dominates it."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " Not at all, there will be freedom and democracy -"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " When you have given it to them."
+            }, 
+            {
+                "speaker": "AM ", 
+                "utterance": " No, when they take it into their hands and when the brutal dictator is unable to pursue his people further.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Thank you very much indeed. Our last witness, Medhi Hasan, formerly political editor of the New Statesman now on a similar position at the huffing tonne post website. On the basis of recent experience, how difficult do you think is it to construct a plausible humanitarian case for Western military intervention?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " It's a very difficult question, and a very important discussion. I think there is a very strong case for doing something in Syria, I am not someone who says you should do nothing, we shouldn't be isolationist, we have to stop the killing machine, but I just think these calls, as we have heard on the programme already, for arming rebels and safe havens and taking full military intervention I think will only worsen the situation, we will simply be pouring petrol on the flames, we will be intensifying the conflict when we should be trying to demilitarise what is a fully fledged civil war now."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Let me take you away from Syria a bit, because it sounds as if you are somebody who would accept intervention in certain cases."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Very limited cases. I start from the premise that I am sceptical of military intervention."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " And in the case of Syria, there are all sorts of difficulties about it, it is quite a long way, a powerful regime."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " And moral issues."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " And the killing has not been so great as in other areas. If this was a straightforward case of ethnic genocide, with a million being killed, one people wiping out another, would we be justified in intervening?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " I would be much more inclined towards supporting such an intervention, but it would have to be in specific criteria. Dr Alan Mendoza mentioned responsibility to correct, that was laid out by the UN in 200 are 5, six criteria, very similar to last resort, reasonable authority, reasonable prospect of success, those criteria met, I think there is a case. The problem with our conflicts in recent years, you mentioned Rwanda and Bosnia, the problem is the conflicts we have had since then haven't met those criteria. They are never last resorts, they rarely have legal authority, they often tend to make matters worse, not better, as we have seen in Iraq, Afghanistan and Libya as well."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Does geography play a part? In the case of Rwanda, say a new case presents itself in Africa tomorrow, would it matter that it is quite a long way from here and would it be advantageous that the intervention should be done by African forces rather than European?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Let us take one of the criteria, a reasonable prospect of success, for that criteria, geography does matter. Even liberal interventionists now recognise that the West can't intervene willy nilly in places where we don't know much about it. In Lebanon, we were told the Arab League led the way by supporting us, that was seen as a crucial part.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Do you mean Libya?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Yes. In Syria, that's what's the real problem. I don't think given the legacy of Iraq and Afghanistan that we can go and blunder into another Muslim country with western forces -"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " On the other hand, if it's places we understand reasonably well, because they are part of Europe."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Bosnia being the example."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Yes, if a Bosnia happened tomorrow in Europe, would we be justified in intervening?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " I think yes, and after Bosnia, we had Kosovo and I'm one of these people who probably would have supported the Bosnia intervention, I was very young at the time, but looking back, I would support what happened in Bosnia, I didn't support Kosovo, because I didn't think the means were proportional and it didn't lead to success, but with reverse ethnic cleansing.  "
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " You will be happy to know I agree with you on both of those.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " That is not very helpful. Clifford Longley?"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " In the initial question Michael asked you, he used the word western intervention. Is it a specific problem that the interventions we have been discussing are western? Would it change your view if they weren't?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " It is a specific problem in the way we tend to have the power and the places don't. It depends what conflict you are referring to. Unfortunately we can't take a universal approach. If you're in Afghanistan, there is a specific history involving the British for example that we totally forgot about, that we had been in four wars previously and lost most of them. In the Middle East there is a specific context, with American intervention, when it is seen as pushing an Israeli agenda.  "
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " You seem to favour some kind of activity to move Syria along.  "
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Very much so."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Including diplomacy. Doesn't that require at least in the background a threat of force for it to be effective?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Not on every occasion, because there are financial pressures. For example, the pressure -"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " It isn't working."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " That doesn't mean it won't work, that's not an argument. I would argue, for example, in Syria, the best resolution of Syria is to get the Russians on board. Should we militarily threaten Russia?"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " I'm saying it isn't working. We are in a state of stalemate."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " But I don't think that means a diplomatic solution is not the solution. Both of the Middle East experts say the Annan plan for all its flaws is the only game in town, get both sides to lay down their arms and come round the table. In Afghanistan, we were told, we have to beat the Taliban, but actually we have to get round the table with them."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " That could involve innocent civilian deaths. turning the argument round, are we not standing by while millions or hundreds of thousands of civilians have their lives threatened and tens of thousands are losing their lives? Don't we have an obligation to intervene morally to prevent that?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " I agree, but I would argue that I am more responsible for my action than my inaction, so if I am standing by having to watch two people fight and kill each other, it is worse if I intervene and kill them both."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " But you still think it right to intervene? It's a good parallel. You should do your best, even though there might be adverse consequences."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " Not if I am trying to help one innocent person kill another innocent person's family."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " That's not what I'm proposing."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " It is. If in Syria we arm the HSA to prevent a Hola massacre, but if they take the weapons, I'm responsible for that."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Let's go to an abstract level. Supposing we had the power to stop Assad."
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " That's the big if."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Would we be right to do so?"
+            }, 
+            {
+                "speaker": "MH ", 
+                "utterance": " If we had the power to stop Assad without intensifying the bloodshed, yes, we would be right to do so, but we don't, that's the key point you miss out.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Medhi Hasan, thank you very much indeed. Let's review what we have heard and see what we make of it. Our first witness, the first point, Michael Portillo, was that the UN's preoccupation with sovereignty is now really out of date, that it's now a protection of life, that's more the overriding consideration. Would you accept that?"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Sovereignty has been pushed aside, it's something that we scarcely give any concern to at all, but I think that has been a great mistake. As I said to you in my opening remarks, I thought pretty long and hard about intervening in the sovereignty of Bosnia. In the end, I thought it was justified in that case and I tonne think so. But I certainly didn't intend that it should become a kind of overriding principle and I think we now intervene in places without even a concern for the issue of sovereignty. I really don't remember the issue of sovereignty being raised, say, in the case of Libya, and I think it should preoccupy us, because when we decide to intervene in another country, that is a big decision and I think we have to have a lot of justification to do so.  "
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Can I question your use of the word sovereignty? All of these states are relatively recent states, ex-colonial, their boundaries were drawn by Western powers, often with deep ethnic fault lines, with groups who are happy to fight each other. So sovereignty is something of a fiction here, imposed by the West.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Claire, our first witness didn't seem to accept your argument that intervention, how did you put it, reduced moral agency, reduced self-determination and was from that point of view a bad thing.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " I think it's quite interesting that now the only way we can defend sovereignty is by dropping the UN into it. The UN didn't come up with the concept of sovereignty and once we start saying the history of imperialism means that no country's boundaries really exist anyway, that's a good way of imagining sovereignty doesn't work any more, I do not think that works. For me, the point about it is that if you actually get to the point, and this idea of a duty to protect, where you basically say, the only way that people can determine their own future is if we go in and help them, that inevitably undermines the concept of agency, so it's not that I'm saying, oh well, this country's national sovereignty is a democratic state and so on, but even the way we have seen about Libya, if you don't allow the people involved in that struggle to work together, to forge a common sense of what they're fighting for, that they actually end up holding up banners in English to get the West to come and help them, and different partisan lobbyists and advocacy groups will say: I'll be the leader of Syria if you back me, that's not the same as the forging of a new democratic nation, that's what's been destroyed, and actually it has been destroyed in Libya, which is falling apart, the idea this is a success story, a disaster."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " Karl Sharro, our second witness, who had the virtue of being clear, his first point was that the West was somehow assuming a moral superiority it didn't really have. I must admit, I did ache to ask him if a country at peace with itself with a democratic government and all the rest of it doesn't have actually some level of moral superiority over one where they are massacring each other in their thousands.  "
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " We need to make a distinction between saying that a liberal democracy, a democratic process, is morally superior to a dictatorship, an authoritarian regime and so on. I think that's quite clear. Where there is a problem is the idea that therefore, those liberal democracies have the moral authority to intervene in other countries. We need to pull those two things apart, and part of the problem, going back to the discussion about sovereignty and democracy, is that a lot of people who are least concerned about sovereignty are also most concerned about democracy. Now democracy and sovereignty aren't the same thing, but without sovereignty, it becomes very difficult to promote the idea of democracy."
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Not only are moral superiority and moral authority separate things, but they're both capital that you can expend and lose. And I thought that Karl Sharro was right to say that, of course, inconsistency is one of the ways in which you lose that moral authority and moral superiority and we are, of course, woefully inconsistent in the places where we decide to intervene.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " I definitely want to take that point up a bit later, but Clifford Longley, Karl Sharro did take your position head on, didn't he? He talked about, in a rather winning phase, the calculus of death distorts moral judgment."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " Because he hadn't got an answer to my question, and if he had answered my question he would have to concede the case, because there must be some level at which he can no longer condone inaction. We must all round this table recognise that if we were looking at for example another situation, Nazi Germany, killing Jews, we would have an absolute moral obligation to do everything in our power to prevent it. I don't see, in principle, this case is the same."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " I think this is very thin morality. You literally go, there's so many bodies over there, so that makes a stronger case than over here. If I believed that something ought to be done, I don't mean in terms of military intervention, but if something ought to be done, I hope I would be driven by some sense of principle."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " But proportionality is a perfectly good moral principle.  "
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " But I think that is all that has been left. That's why we get confused. You get the news distorted by it, let's see if we can get people to kind of cry a lot, kind of get them emotive, show them lots of bodies. It becomes a very superficial way of wringing our hearts to get us to do something. All I'm suggesting is that (a) life is more complicated, (b) morality is more complicated and it's just possible that just because you're shocked by horror that you don't actually then go, oh, let's rush in then, because otherwise we are going to be immoral.  "
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " No one is suggesting that. The case is a very much more complicated than you are putting, on the possibility that intervention might be effective."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " I am suggesting that intervention in Syria is so complicated, that you will be immoral if you don't go in, is over-simplifying a nasty civil war.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " What was interesting, in your views and the witnesses' views, where the dividing line was. Why Bosnia and arguably the lost opportunity in Rwanda were good and Iraq and maybe even Libya, if you took that view, were wrong. What was it? Was it to do with numbers? Was it due to an ethnic dimension? Was it due to, you know, whether it was a plausible, practical operation? Michael, where did you put the needle in that graph?"
+            }, 
+            {
+                "speaker": "MP ", 
+                "utterance": " Well, I think none of these really do amount to moral principles but the numbers are partly to do with it, because if the numbers are relatively small, and I'm sorry even to say they are relatively small in Syria, because it is thousands of people, but people understand that I am talking in the context of hundreds of thousands that have been killed elsewhere, if the numbers are relatively small it doesn't indicate genocide on the scale of Rwanda, it indicates a struggle, and a number of people have said the struggle is extremely complicated. And geography matters as well, certainly in practical terms, do we have the ability to get forces out there in order to do something about it, but it matters in a different sense, that our responsibility is first and foremost to ourselves and then to our neighbours, and that people in Bosnia are our neighbours in a way that people in Syria and people in Rwanda are not."
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " That's not an acceptable distinction, honestly, morally, you can't get away with that. We are involved in all those people's affairs, they are all part of the same human race, and our interests are involved in those affairs.  "
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " What about Mr Sharro talking about, if Syria, why not Bahrain, why not Saudi Arabia?"
+            }, 
+            {
+                "speaker": "CL ", 
+                "utterance": " That is an absurd argument. If we can't put everything right, we shouldn't put anything right, that's what it amounts to."
+            }, 
+            {
+                "speaker": "KM ", 
+                "utterance": " That's not the argument. I agree with you, just because you can't intervene everywhere doesn't mean you shouldn't, but what the argument points out is the selective nature of the intervention undermines the supposed moral claims for such intervention. That's what the argument is about."
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " The problem is we end up with a foreign policy that can up and down, inconsistent, you can't work out where it's based. My concern is often the drive for foreign policy at the moment is to give a moral cause to the West, they haven't really got one. We're in a moral mess here, we're morally compromised at home and we look to a black and white simple solution, we'll go in and save those people, to give ourselves some moral drive. That's the wrong way to do it."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " And the small kernel of argument you introduced at one stage, self-interest necessarily immoral?"
+            }, 
+            {
+                "speaker": "CF ", 
+                "utterance": " No, I think it can be very positive. We have demonised it."
+            }, 
+            {
+                "speaker": "MB ", 
+                "utterance": " That's it for this week. From our panel, and from me, until the same time next week, goodbye."
+            }
+        ]
+    ], 
+    "metadata": {
+        "authors": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "dates": {
+            "collection": "2012", 
+            "packaging": "2013-07-02"
+        }, 
+        "description": "A 65,000 word corpus of unanalysed dialogue transcripts from the BBC Radio 4 Moral Maze programme", 
+        "doi": "", 
+        "error_log": {}, 
+        "notes": [
+            "Each dataset comprises two columns of data, column 1: Speaker, and Column 2: Utterance", 
+            "Checksums are used merely to indicate whether this file has become corrupted and are computed using the md5 algorithm. For versioning it is better use the versions of this dataset from the Git repository for this corpus."
+        ], 
+        "tags": [
+            "dataset", 
+            "dialogue", 
+            "moral maze"
+        ], 
+        "title": "BBC Radio 4 Moral Maze Transcripts", 
+        "warnings": [
+            "This dataset contains transcripts from human conversations that were transcribed by a transcription service. Hence there could be transcription errors within the dataset that stem from human error."
+        ], 
+        "where": [
+            "University of Aberdeen", 
+            "University of Dundee"
+        ]
+    }
+}

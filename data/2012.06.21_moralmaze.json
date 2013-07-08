@@ -1,0 +1,548 @@
+{
+    "data": [
+        [
+            {
+                "speaker": "Male ", 
+                "utterance": "\tGood evening. An influential report published this week accuses the NHS of massive inequality by prioritising physical over mental illness.  A group of experts convened by the London School of Economics claims nearly half of all illness in the under 65s is mental; that six million people in this country have depression, or crippling anxiety; and that three quarters of them go untreated. The wealthier we get, the unhappier we seem to be they say, and they make an economic as well as medical case for expanding mental health treatment.  First of all, is this true? Or are we merely medicalising the glum, the shy, and the badly behaved? Maybe, in our blame resistant times, relieving them of being moral agents for their own behaviour. If it is true, oughtn\u2019t we to address the underlying causes of such widespread distress, rather than, or at least as well as, trying to drug and talk them out of it. Try to glue back an atomising society; rebuild broken families, raise our ambitions beyond vapid consumerism, perhaps rediscover religion.  Shouldn\u2019t we try to work out what makes us happy and put it on the school curriculum? Are we really less able to cope than previous generations? What does it say about us, and how can we make it better?  That\u2019s our \u2018moral maze\u2019 tonight. The panel: Melanie Philips, social commentator on the Daily Mail; the former conservative cabinet minister Michael Portillo; Claire Fox, from the Institute of Ideas; and Matthew Taylor, formerly Tony Blair\u2019s chief political advisor, now Chief Executive of the RSA.  Claire Fox, does this report make sense to you?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI\u2019m afraid it doesn\u2019t, and my dread is that what we\u2019re doing is labeling problems of everyday life, with syndromes and pathologies. And I get nervous that in the course of doing that, we\u2019re trivialising serious clinical depression, and mental illness. Because we basically get to the point where every little bit of unhappiness is described as though it\u2019s mental illness."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMelanie Philips?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tI think that undoubtedly there\u2019s a certain amount of inappropriate categorisation going on; categorising ordinary unhappiness as a mental disorder of some kind or another. But I also think that there is undoubtedly a real increase in real mental illness. Depression, anxiety; I think these things are increasing because of the pressures of every day life undoubtedly. But nevertheless the idea that social problems, or social pressures, don\u2019t in their own way lead to clinical illness, I think that view \u2013 putting these things in alternative boxes \u2013 is not realistic at all."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMichael Portillo?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tWell I think mental illnesses, like depression, clearly do exist, but there are incentives to classify things like unhappiness or misfortune as ill health. There are powerful lobby groups pushing in that direction, and a diagnosis can be a passport to benefits and to treatment. And then I think some unhappy people may find it reassuring to be diagnosed as ill."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMatthew Taylor?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tI think there are real issues about the scale of sadness and fear in society, I think we can imagine reasons for that. But I worry about the analysis that lies behind, and the consequences of, defining that problem in medical terms, and particularly on the scale that the LSE report suggests. "
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tPanel, thanks very much indeed. Our first witness is Professor Lord Layard, Richard Layard, who is director of the wellbeing programme at the Centre for Economic Performance at the London School of Economics, and the man behind this report. What interests me, Lord Layard, was that you say in the report mental illness is a far more important cause of unhappiness than say, broken families, or any other social, economic, or cultural cause. Almost as if mental illness had nothing to do with those underlying issues."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tNo, of course it influences those things. What I\u2019m trying to establish is that this is a deep underlying problem for many people in our country.  To look at it\u2019s importance, we include when we are trying to explain whether people are satisfied or not with their lives, things like their family situation, their job situation, and so on. We also include their physical health, we include their income. And then we include, not their current mental illness because that\u2019s obviously begging a question, but their mental illness eight, ten years\u2019 earlier. Their mental scale; how they were on a mental scale of malaise. And that is the dominating influence affecting how miserable a person is now. Four times more powerful than their current income, and twice as powerful as how many physical illnesses they have. So this is a root dimension of the human situation, which we have not been willing to take seriously, I think because we\u2019ve not been willing to think it could be studied in scientific way.  Now, I\u2019m an economist, I\u2019m from outside this world, but what has really impressed me is the quality of the science with which these people operate. Both in the diagnosis, which is done scientifically, it\u2019s not self diagnosis, there\u2019s no incentive for anybody to diagnose themselves, they\u2019re diagnosed by a researcher."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tLet me stop you there, because you\u2019ve already said several things that I think the panel will want to unpack. Michael Portillo?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tWell the six million figure is a pretty surprising one, and I must say it does provoke a certain amount of skepticism. How are we defining mental illness?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tWell it\u2019s defined by asking people an awful lot of questions about themselves, how they feel, how they\u2019re sleeping, eating, and all those other things. "
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tAnd you think a sort of poll like that is reliable, do you?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tYes of course, it\u2019s an interview survey. Now-"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tBut there\u2019s a big difference between unhappiness and mental illness isn\u2019t there?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tYou\u2019re asking a reasonable question. Where should the cut off be put? And the point is that having put a cut off, they then differentiate within the cut off between mild, moderate, and severe. So if you take severe depression of course that\u2019s less than the whole of depression. But the remarkable thing is that if you take the whole of depression in these surveys, and you compare it with the impact of angina, asthma, diabetes, arthritis, on a person\u2019s functioning \u2013 I\u2019m going to be quite practical in a moment - talking about their functioning: can they work? Can they run a family? Can they get out in the morning? It is 50% more disabling than depression, that whole spectrum of it."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tWell I think depression is very disabling, from everyone I\u2019ve known who has it. But I think a lot of people who do have depression would be pretty shocked by what you\u2019ve just said. Because what you\u2019re really saying is that you\u2019re accepting that people who describe themselves as unhappy have mental ill health. I mean, that seems to me deeply unfair to people who have depression, which as you say is a debilitating condition."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tNo, I\u2019m not saying that. I\u2019m talking about the- people are asked these detailed questions, and then they are classified. One classification is depression, another classification is anxiety disorders like these MPs who came out last week, obsessive compulsive disorder and so on."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tYou used the expression yourself in your first answer, \u201cSatisfied with their life\u201d. Well, lots of people may not be satisfied with their life, doesn\u2019t mean they\u2019ve got clinical depression, does it? There may be all sorts of reasons for unhappiness, including that life isn\u2019t going very well."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tMichael, you didn\u2019t understand what I said. I said \u201cIf we want to say, \u2018what are the causes of misery?\u2019 we need a measure of what is misery\u201d. I\u2019m saying to be in, let\u2019s say, the bottom quarter of people who are least satisfied with their lives, and then we see what explains it. And I\u2019m saying if we run an equation putting in all the different factors, one of the factors that comes through dominantly is this malaise."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tYou\u2019re doing it by self-definition. You\u2019re asking people whether they feel depressed. I mean that surely isn\u2019t the definition of whether someone has depression?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tI\u2019m not asking them whether they feel depressed. I\u2019m asking them 26 questions, and producing a score as a result of it, which is their score on this index of malaise, which is what is this overwhelming predictor of whether a person, eight years\u2019 later, says they\u2019re satisfied with their life or not."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMatthew Taylor?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\t he said you were a more conventional economist before you got into the area of happiness and wellbeing. If I could imagine taking you back to the 1960s and saying to you that there would be a future time when 6 or 7 million people who wanted full time jobs, couldn\u2019t get them. Where living standards had been stagnant for twenty or thirty years, and inequality was at an all time high. And that lots, and lots of people in that society were anxious and depressed, do you think that you would have needed a medical explanation for that? Or would you have simply said \u201cWell of course there would be\u201d?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tWell I\u2019m not wanting to get too much into this historical thing which you brought in, in the introduction, but I think mental illness has actually been a feature of the human situation from the Stone Age. And the great thing now, is that we\u2019re able to understand it much better, and treat it. So what I\u2019m wanting to say to you Matthew, is that we have a lot of problems, we have a lot of people that are unhappy. They\u2019re unhappy because they haven\u2019t got jobs, they\u2019re unhappy because they haven\u2019t got a proper housing situation, they don\u2019t understand their benefit situation. There are a thousand things that are wrong in society, which you and I have worked on before, and I spent most of my life working on unemployment and inequality, and not mental health.  What has struck me though, is that in spite of big improvements \u2013 I mean you\u2019re wrong to say that everything\u2019s been getting worse over the last thirty years, apart from this current recession. Most of the typical indicators that Beveridge would have looked at: standards of education, housing, income and so on, have improved a lot. But, what has struck me, and what has got me into this field, is the fact that we know from the surveys that happiness has not increased. And I do believe (Cross talking)  I think the reason why happiness has not improved in spite of all these improvements in the external circumstances of our society, is that we haven\u2019t given enough attention to the inner people, what is going on inside people."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tCan I just then explore the consequences of this? I know that you advocate talking therapies, rather than drug interventions. But, can I just ask you a thought experiment? If there was an effective drug intervention, as effective as cognitive behavioural therapy, which is what you do advocate. Do you think six million of us should be taking those drugs?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tNo, because some of them are mild. And I quite agree with what Michael was saying-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut you\u2019re advocating talking therapies for all these people aren\u2019t you?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tThere is a turnover rate, especially with depression actually, that depression is an episodic illness."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut I thought the top line of your report was that six million people should be treated? That was the top line of your report wasn\u2019t it? That six million people were in need of treatment."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tThat they should be getting some help. I can only react in light of the current drug situation; I can\u2019t do a hypothetical situation. At the moment, mild and moderate depression should not be treated with drugs."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tIf we all had drugs, we all had cognitive behavioural therapy-"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tAll those people would benefit from psychological therapy. Every one of them."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tBut if had the drugs, and we had the cognitive behavioural therapy, and that meant that people were more content about living in a society that was unequal with lots of unemployment. Would that be a better situation? For people to be more content, regardless of how society is?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tLook it\u2019s a matter of both and, we should be improving on all fronts."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWhen I worked in mental health, many years ago, a great source of frustration for people who had clinical depression, was when the next door neighbour would say \u201cI know how you feel, I\u2019m fed up and miserable too.\u201d Aren\u2019t you doing the same? Aren\u2019t you institutionalising that very trivialisation of serious depression, when you say \u201cLack of life satisfaction\u201d and so on and so forth?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tNo, I think we\u2019ve still gone back to the same confusions. I\u2019m not using lack of life satisfaction as equivalent to mental illness, I\u2019m saying mental illness is a very important factor explaining it."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI\u2019m simply saying you\u2019ve talked about unhappiness. I\u2019d say that there is no evidence of an increase in the decline in mental illness unless you start talking about life satisfaction, unhappiness, and labelling being fed up with a medical label. You\u2019re the one doing that, not me."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tNo, no, but as I said earlier, I\u2019m very against the idea of an epidemic of depression. I don\u2019t think there\u2019s any very clear evidence that there\u2019s more mental illness now than there was fifty years ago, but I think it is a deep and enduring human problem, which we are now becoming able to deal with because we have scientifically experimented with what therapies make a difference and what don\u2019t. And we are measuring the outcomes, and we are seeing people\u2019s lives turned around, and all the people-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI\u2019ve got one last chance to ask you something, so I just want to do it very quick. You just said in response to Matthew, that you think that all of those people would benefit from going to therapy. Can I just ask you, if you go to therapy in the end you\u2019re a patient; you\u2019re dependent, you have to go to somebody else to solve your problems.  Do you not think that that chips away at self-confidence and resilience if you are told that the only way you can tackle any problems is to go to an expert, who\u2019s going to sort out what\u2019s going on inside you?"
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tWell I think of what most of these people would say they had got from the therapy was thy felt they had regained control over their lives. And that is certainly the aim of all good therapies. Just coming back to your numbers, the programme we are providing at the moment, aims by 2014 to treat 15% of those 6 million. So I\u2019m not thinking they will all wanted to be treated. You asked me a definitional question, I think they would benefit, but I\u2019m sure we will never get to a situation where more than a third of them are actually being treated, we probably don\u2019t need to. Because of the turn over, the natural recovery; many things."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tProfessor Layard, thank you very much indeed."
+            }, 
+            {
+                "speaker": "Lord Layard ", 
+                "utterance": "\tA pleasure, thank you."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tOur next witness, is Dr. Kenneth McLaughlin, who is Senior Lecturer at the Research Institute for Health and Social Change at Manchester Metropolitan University. Do you accept that so many, 6 million I think was the headline, are mentally ill? And, if you don\u2019t, what\u2019s going on here in your view?"
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tWell I think part of the problem is that it can be very difficult to know with clarity the true extent of the problem. I mean, there\u2019s certainly been an exponential rise in diagnostic criteria over the past forty years. And I suppose the more criteria you have, the more people you can fit into them. For example, does the demand for therapy lead to the supply of therapies, or is the reverse the case? Does the supply of therapies lead to the demand for therapy?  Neither I think, is the situation helped by the way that much research uses terms such as \u2018mental illness\u2019, \u2018mental disorder\u2019, \u2018metal health problems\u2019 interchangeably. Mental health problems are used as a very elastic term, to such an extent that almost any unpleasant behaviour or experience can be classified as such."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tI understand exactly what you\u2019re saying, it\u2019s a very telling point. Melanie Philips?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tGiven what you\u2019ve just said about the imprecision of the definitions, what evidence do you think there is for the belief that a number of social problems are being inappropriately diagnosed as mental illness?"
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tI do certainly believe that people are more anxious about a variety of things today. I don\u2019t doubt that. But I would argue that this has got less to do with individual pathology than the way personal, social and political concerns are articulated in the current period. I think in this sense it\u2019s really important to differentiate between two things. Certainly there are people that require professional psychological support, but we need to differentiate that from the politicisation of therapy. Particularly the way that moral and political claims and interventions, by all the mainstream parties today, and including many, many campaign groups, are articulated and justified in psychological terms. "
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tWell that as it may be, I can agree with you that there are groups which do inappropriately classify people. But is there necessarily a distinction to be drawn, and an opposition to be made, between social problems and psychological need? For example, one could say family breakdown, there\u2019s been an exponential increase in mass fatherlessness. Now in my view, my limited experience, that has given rise to a whole range of disorders, ranging from just unhappiness, to what I would consider to be an illness, which is basically an inability to cope with one\u2019s life. Surely there\u2019s no contradiction between these things? One leads to the other."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tNo I think there certainly is. Because how you view a problem leads to how you see the solution to that problem. If you view it as symptomatic of a mental illness, or a mental disorder, then you\u2019re in the realms of seeking expert advice via medication or talking therapies. So, for example, if you feel low or depressed because you haven\u2019t got a job, you need a job."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tOf course, but one\u2019s not talking about that. I\u2019m talking about, for example, situations where children or young people, again this issue of family breakdown, one of many, many examples. Children have a kind of fragmentation of their personality, because of the fact their families are fragmented. That leads to an inability by those children or young people to cope with life; that is an illness. That has to be treated."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tI think that\u2019s pathologising single parenthood. I think what you do see when you talk about children and mental health problems, again more and more of what I would class as social issues, are redefined as mental illnesses.  So for example, the most common form of childhood mental disorder is conduct disorder. That\u2019s the most common. Conduct disorder includes such things as aggressive behaviour, antisocial behaviour, truancy, using alcohol or using drugs, but that\u2019s not a mental illness."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\t\t\tMatthew Taylor, your turn."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tHow do you think we should therefore respond to forms of social pathology like obesity, or sexualisation of children, or binge drinking? Are you saying \u201cWell let\u2019s just wait for the revolution to come, because after that everything will be okay\u201d? What should be our response to these issues here and now? We can\u2019t simply say to these people \u201cWell you\u2019re suffering because of the class system\u201d, can we?"
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tWell I think what you can do, is actually back out a bit. Because more and more of what you\u2019re saying, I think it came about quite a lot during the New Labour government that you were involved with, was more and more were seeing the problematisation of informal relationships, not just within the family, but also within the community. So for example, some of those informal forms of social support got undermined, certainly during the New Labour years, so community groups, groups that would maybe organically respond to community need which may be to do with social problems, more and more to justify their funding had to do government policy by proxy. So they weren\u2019t responding to identified local need, they were doing whatever was the government fad, whether that was around healthy eating, smoking cessation, alcohol abuse strategies etc. etc."
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tI can\u2019t quite see how you\u2019re explaining obesity on the basis that this is people\u2019s response to healthy eating campaigns. Aren\u2019t there things about modern society, aren\u2019t there aspects of modern society, whether we\u2019re talking about consumerism or inequality or whatever it is, which do make people unhappy on an individual level? Or do you simply deny the possibility of individual unhappiness?"
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tNo, I\u2019m not. What I\u2019m trying to say-"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tAnd how do we deal with it when people do the wrong thing? What is our response to it? I don\u2019t understand how you think we should respond to social pathologies."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tLet him explain."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tOne, I think as far as possible people should be left to come to their own solutions, without expert intervention or government dictat. Well that would normally have been seen as something to do with the criminal justice system, or the youth justice system, or something like that. It wouldn\u2019t have been seen as a mental illness, what we tend to see now then, is the sort of medicalisation of crime.  One of the things I wanted to get across is what you see, how we\u2019re encouraged to view ourselves as vulnerable today. So, in that sense it\u2019s no surprise that some people do view themselves through presence of mental illness. "
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tSo basically you\u2019re saying this is false consciousness. So people who say \u201cI am unhappy, I feel anxiety and my behaviour- whether it\u2019s overeating or over drinking or whatever- is a consequence of that\u201d, they\u2019re suffering from massive false consciousness. You need to come along and explain to them, that\u2019s not really what\u2019s going on, it\u2019s class suppression that\u2019s driving their behaviour."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tNo, not at all. What I\u2019m trying to understand is where this has come from, because unless we understand where it\u2019s come from we can\u2019t either intervene, or a lot of the time, not intervene. So, for example, in terms of the way that some of this debate takes place, around moral and political claims that have led to this, there\u2019s an organisation called Platform 51, don\u2019t know if you\u2019ve heard of it, but that claimed recently that 60% of women were in need of psychological support because of mental disorder. They identified that the symptoms were sexual promiscuity, alcohol abuse and drug abuse. Now, apart from using a very loose definition of the term, what\u2019s most interesting about Platform 51 is that up until a couple of years ago it used to be known as a the Young Women\u2019s Christian Association. They\u2019re still concerned with the same things: female sexuality and inebriation, but as the old religious moral rhetoric has lost it\u2019s hold in society, they\u2019ve recast them as mental health issues."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMichael Portillo?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tI want to go directly on from that; so what is the impact of the changes that you see on personal responsibility? What is the effect on the moral fibre of the people who are categorised falsely, where they are."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tI think, leading on from the Platform 51 scenario, I actually think in many respects, this new therapeutic discourse is washed in the old religious discourse. Because the YWCA at least had the decency to give these women, who were sexually promiscuous, drinking alcohol and using drugs, they gave them moral autonomy to make the choice. The new Platform 51, under a therapeutic discourse, doesn\u2019t even give them that moral autonomy. That behaviour is now seen as symptomatic of an underlying mental disorder. "
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tAnd what is the push, as you see it? I mean I assume you don\u2019t deny that anxiety and depression exist as mental health conditions."
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tNot at all."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tWhat are the drivers towards the misallocation, the misclassification, as you see it?"
+            }, 
+            {
+                "speaker": "K. McLaughlin ", 
+                "utterance": "\tWell I think social and political change, and the inability to define your political goals and struggles in honest language. Where, for example, if Platform 51 don\u2019t like those behaviours, they should be brave enough to say it; class them as bad and stand up to that, not recast them as psychological issues. "
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tOkay. Thank you very much indeed, Doctor McLaughlin. Next, and last witness, in fact is Dr Charlie Alcock who is the Chief Executive Officer of a charity called MAC-UK, a charity that she set up to take psychological treatment to, principally, people like gang members on the streets, very much on their terms. Sorry, so it\u2019s a very simple question: they\u2019re mad not bad then?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tWe\u2019re not saying that they\u2019re mad at all. So there\u2019s this statistic which says that one in three young people who offend have got an un-met mental health need at the time of offense. And we also know that things like clinical depression, particularly in young men, may present in a very violent and aggressive way, and it\u2019s actually quite unlikely that when a young person is wielding a knife someone\u2019s going to stop and say \u201cHold on a minute, is that young person struggling with mental health, or with clinical depression?\u201d So what happens? That young person ends up in a justice system, where we know that they\u2019re less likely to get those needs met. We work with young people on a broad spectrum-"
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tActually, I want to stop you there, because what you\u2019ve said is very interesting. And I\u2019m sure Claire Fox, would want to take it up?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOur previous witness has just made a point that, is there a danger here, particularly with young people, of denying them moral agency. Or in fact, giving them an excuse for poor behaviour, gang members or not."
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tSo, young people have to be accountable for their actions, and enforcement is absolutely essential. But so is working as much as we can to prevent young people from spending years in prison, or years in the justice system. So, we at MAC-UK would work with a young person on whatever it is that they bring. That could be mental health, it could be-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI appreciate that, but let\u2019s- because we have to do the mental health thing here, and that\u2019s what we\u2019re looking at. You see you said it, extraordinarily you said one in three young offenders have got an un-met mental health- you say \u201cA statistic used\u201d. My concern is where did that get plucked out of the air from? How is it that you know whether they\u2019ve got an un-met mental health- what\u2019s your diagnostic technique? We\u2019ve just heard about the elasticity about that."
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tSo, we don\u2019t diagnose, we work with symptoms. So a young person would come to us and we would work with that young person with whatever it is that they are seeking help for."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tSo let\u2019s just think about this right, you work with symptoms, you\u2019ll have seen those symptoms lists. Those symptoms lists of \u201cIs the young person you know bolshy, anxious, can\u2019t sleep, surly, answers back\u201d- I mean, it sounds like every angst ridden teenager you\u2019ve ever known. If you say to young people \u201cDo you tick all the symptoms here?\u201d They\u2019re all going to look like they\u2019ve got a mental health problem. Is there not a danger then that you don\u2019t know what you\u2019re doing? I mean, this is just subjective nonsense isn\u2019t it?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tWe wouldn\u2019t actually assess, so we wouldn\u2019t-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tSo the youths themselves asses?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tYoung people bring a need to our service."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tBut it\u2019s not a mental health- so who calls it a mental health need then? Do they walk through the door and say \u201cI\u2019ve got a problem, or this syndrome and anxiety and mental health need. It\u2019s an un-met mental health need which I want you as your project\u2026\u201c Do they say that to you?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tOften not, no. So we would-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tNo. So you have to give them that label then, don\u2019t you? You decided. No?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": " \tNo, absolutely not."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tIt comes out of the ether? Where does it come from?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tSo we work with a model whereby to begin with, we run activities with young people. And at those activities there would be mental health professionals, and young people know they can access that support if they want to. We don\u2019t tell them that we think they need to."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOkay. No, fine, okay. So now I get the jist, right. So this is what- is this correct? The young people who don\u2019t know they\u2019ve got an un-met mental health need, undiagnosed and all the rest of it, you send them off to a group of mental health experts who tell them all the symptoms that they could have. And they then go \u201cOh I\u2019ve got one of those un-met mental health needs\u201d. Which might be a useful way for them to self diagnose, because then you can say \u201cOh you\u2019re one of those kids who needs help, not punishment\u201d. Is that right?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tNo. In the integrate model, which we actually grew with young people from the ground up, it\u2019s about taking the presenting issues which a young person brings. It\u2019s not about diagnosing or referring on into a mainstream mental health service. Sometimes, it\u2019s actually usually an exception, that is something which a young person might find helpful, but a lot of the time that isn\u2019t what we\u2019re seeking to do."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMelanie Philips?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tSo far, in my view, so unexceptional. What you\u2019re describing is a worthy project, but I\u2019m not quite sure where this is leading in the context of this discussion. What conclusions are you drawing? Are you drawing the conclusion, you seem to be sort of against them being in the criminal justice system. Are you drawing the conclusion that they should not be in the criminal justice system? That they should not have been prosecuted? That they should not be imprisoned? That they should not be punished? That they have no responsibility for their own actions?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tI\u2019m absolutely not saying that, no. So, I can speak from my experience as a practitioner on the ground. We work with young people who are gang involved; we absolutely believe as an organisation, that there has to be justice. Young people have to be enforced when they offend. But we also have to make sure that we are meeting the needs of young people, whatever those needs might be."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tI understand. Okay, so a few years ago, I think probably actually quite a number of years ago, there used to be secure institutions for young people. Where young people who committed crimes where sent, within the criminal justice system, they were locked up, because they were a danger to others and to themselves, and they were treated. Do you think we should return to that system?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tI come from a community model. So we come from an approach at MAC-UK where we make mental health services accessible to young people if they want to access them. "
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tDo you not accept that there are young people who simply won\u2019t turn up voluntarily at a worthy organisation like yours? Whose needs are so extreme, and whose behaviour is so extreme, that in their own interests they need to be locked up? Do you not accept that? Are you against locking anybody up? Is that your point?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tNo, absolutely not."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tSo why don\u2019t you want to see a return of these very specialised institutions which dealt with the most troubled of all our young people?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tI want to see services which address the needs of young people, and at MAC-UK we advocate for meeting young people on those terms, and for their needs to be met by what they bring. I.e. It\u2019s about the service user, not about the service."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMichael Portillo?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tI wonder if you\u2019ve considered the possibility that you\u2019ll cause offense to people who suffer from mental health problems. You assert on one hand that many of these youths have un-met mental health needs, but on the other hand you say it\u2019s not about diagnosing, you work with symptoms. You give the impression that terms like anxiety and depression are kind of semantic rather than real concepts that can be defined. Do you see how very offensive that could be to people with mental health problems?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tI can speak from the research that we have done around our model, and essentially not all young people have mental health needs. And I want to be really clear about that, not all young offenders have mental health needs. Some do, and some young people do work with us for treatment around their mental health, and wherever possible the integrate model which we\u2019ve developed advocates that it\u2019s not just about working with the individual, it\u2019s also about working with some of the societal causes that might have contributed to the young person\u2019s difficulties.  So what we advocate for, is intervention at an individual level where it\u2019s necessary, and that intervention is led by what the young person wants support with. But also working at a more organisational level, because we recognise we can work with these young people until we\u2019re blue in the face, but if things around them don\u2019t change, then actually it\u2019s really challenging for some of these people to move forwards with their lives."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tAnd do you recognise a moral dilemma? On the one hand, providing an explanation for why people are very badly behaved, criminally behaved, and on the other hand the need to instil in them a sense of self-responsibility. What do you actually do about that, the underpinning of self-responsibility?"
+            }, 
+            {
+                "speaker": "Charlie Alcock ", 
+                "utterance": "\tWe\u2019re not saying that mental health difficulties cause young people to offend, there\u2019s not a link there. We\u2019re saying there are a group of young people who would find it challenging to access services, so they say things like \u201cWell actually, I can\u2019t get to a clinic because it\u2019s in the wrong place. I don\u2019t feel safe to leave my postcode. Or there would be so much stigma with me seeking that help, I just can\u2019t go. But actually, perhaps I want some help, and can you come to me?\u201d And so, this is about reaching needs of young offenders on their terms in a way that\u2019s accessible to them, in a highly flexible way."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tDr Alcock, thank you very much indeed for joining us this evening. So panel, let\u2019s go back to the man behind this report, Professor Layard, our first witness. Michael Portillo, you dragged him over this area of what you perceive to be, or suggested was self-definition of mental illness. What were you getting at? And to what extent did Lord Layard satisfy you on that score?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tHe didn\u2019t satisfy me. I thought there was a lack of rigour in how one defines what is a mental illness. I\u2019m not for a moment denying that mental illness exists, or indeed denying that it\u2019s widespread. Personally I find it difficult to believe that it\u2019s six million. I didn\u2019t find evidence form Lord Layard that it was six million, except apparently on the basis that people have been asked 26 questions. Well, I don\u2019t think 26 questions in which people detail their various unhappiness\u2019 is enough for me to be convinced.  And then secondly, the main point that he seemed to be making was that a history of mental illness was the most likely predictor of people being unhappy in the future. Again, I didn\u2019t like this conflation of mental illness on the one hand, and unhappiness. Unhappiness is the lot of many people, there are very often very rational reasons why people are unhappy.  As I understand it, mental illness, particularly depression and anxiety, are conditions which medics are very well able to identify. Not least, because of the intensity of those conditions, the crippling nature of those conditions."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\t\t\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI get really nervous about this, because I think there\u2019s been this huge expansion of the diagnostic tools for intervention. Every time anyone comes out now there\u2019s a kind of new one, or new syndromes that can be identified. The reason I get worried about it is I get concerned that there\u2019s a kind of advocacy research involved in this. Which is people who passionately care about getting support and resources for the mentally ill; the more that you can say that there are, the more help- It\u2019s always been a bit of an un-glamorous one schizophrenia and bipolar, do you know what I mean? So if you can kind of, broaden it out so there\u2019s that rather cynical, but well intentioned thing. But there\u2019s also this sense in which I do worry that people like Lord Layard think that those of us who are having a rough week, or are rightly dissatisfied and unhappy with our lot because we live in a rubbish society or whatever, need to go and see a therapist.  And I think that the thing for me is just that, people who suffer clinical depression, people who are about to go through an episode or are going through an episode, or people who have got bipolar or schizophrenia, it\u2019s the most horrible experience. It\u2019s very nasty. They often don\u2019t present, and they certainly wouldn\u2019t answer- you know, they could answer the 26 questions and tell you everything was fine. I mean, people in the depths of depression often hide it."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMatthew Taylor, you were very much concerned about the social, political circumstances that might underlie mental illness, or certainly depression. But didn\u2019t he make a telling point when he said \u201cWell actually, looking back the conditions and circumstances of people have changed beyond all measure. But people, if anything, are probably less happy now than they were.\u201d Doesn\u2019t that achieve a disconnection that wasn\u2019t to your advantage?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tI thought that the most fascinating thing that Richard Layard said,  was that he was really arguing that mental illness that mental illness is always with us. That there was always going to be a very high level of what he would define as mental illness, in society. A very high level, and it kind of begs the question \u2013 I don\u2019t want to be a reductionist \u2013 but why have we evolved as a race to have this incredibly high propensity to mental illness? Why would this have survived in the human gene, this kind of disfunctionality?  I think that there are very specific causes of greater vulnerability in particular areas in society. I don\u2019t think, as our second speaker suggested, that it\u2019s simply about grand power and class, I think there are very specific things going on. But I also cling onto the view, maybe I\u2019m a na\u00efve idealist, but that a better society will be one where fewer people would be miserable?"
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\t\t\tMelanie?"
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tWell I think, and I agree with quite a lot of what Matthew has said, I do think that there is an increasing amount of social pressure on people. Which is leading to an increasing amount of, what I would call illness. I thought that the second speaker, Dr McLaughlin, was ludicrously reductionist. I mean he seemed to be going out of his way to deny that there was any such thing as illness, mental illness. Hang on a minute, let me finish. He seemed to going out of his way to deny that there was a mental illness arising out of social problems. For example, his visceral reaction when I suggested that the mass fatherlessness that we\u2019re encountering was leading to real illness and disorder among children, produced a visceral reaction in which I was accused of pathologising single parenthood. But the fact is, that if you talk to child psychiatrists, there is a huge amount of, not just unhappiness among children, but an absolute disintegration of their identity. From their feelings of abandonment, from neglect."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tYou\u2019ve made that point Melanie."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tWhat we had here was a real debate, because in passing, I think in response to my opening proposition, Lord Layard said that there were not incentives to misclassify conditions as mental illness that weren\u2019t mental illness. But I thought Dr McLaughlin actually gave us all sorts of examples of the way in which that was happening, and the reasons why it would happen: that it suits social agendas, and political agendas, and so on."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tWell you made several points didn\u2019t you that are worth reiterating, because they were assertions that were fairly controversial and very interesting in this argument. That it was recasting morality as illness for instance, that it was the medicalisation of bad behaviour and crime, and an encouragement to view ourselves as vulnerable. Claire?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI think that, one of the things that used to be the case that\u2019s changed, is having a mental illness had a stigma attached to it. It was a horrible thing that you wanted to get rid of, right? It wasn\u2019t fair. Now what\u2019s almost happened is, having a badge of \u201cI\u2019m in need of a therapeutic intervention\u201d is not that embarrassing. One of the things that teachers will tell you, and as a teacher I know it, is young people will come and say \u201cDon\u2019t you know I\u2019ve got ADHD? Don\u2019t you know that I\u2019ve got this deficit? I\u2019m ill\u201d and so on. I\u2019m caricaturing, but not that much.  Parents of course are now prepared to do that. And you can access both resources, but what\u2019s more is.  It\u2019s also because all these people suddenly pay attention to you."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\t\t\tIsn\u2019t moral agency a real issue here in this issue, Matthew?"
+            }, 
+            {
+                "speaker": "Matthew Taylor ", 
+                "utterance": "\tAbsolutely moral agency is an issue. But I also think we need to explore why it is that certain groups of people appear to be more vulnerable. And why it is that certain kinds of pathology seem to be on the rise. And whilst Melanie and I might disagree about what the causes are, I agree with her that one needs to look at those slightly more granular connections.  So the fact that, for example, we\u2019ve got a problem with binge drinking and overeating is connected, from my view, to the things that people are encouraged to consume, and the message of consumption, which comes at them. I don\u2019t think that\u2019s mental illness, though."
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tIt\u2019s nothing to do with mental illness at all. "
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMelanie, our last witness, Dr Alcock- thoroughly admirable, going out into the streets and mixing with gang members and everything. Did you not see that there was a danger that it might encourage rather vicious and nasty people to see themselves as victims rather than perpetrators."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tWell, I though that was what she was going to say, but she didn\u2019t actually. She went out of her way to say that wasn\u2019t what she was saying."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tNo, exactly, no."
+            }, 
+            {
+                "speaker": "Melanie Philips ", 
+                "utterance": "\tSo in all fairness to her, she was in favour of punishment, she was in favour of locking people up. I mean I couldn\u2019t see quite where her argument was going. It seemed to be entirely worthy, but so what?"
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tMichael?"
+            }, 
+            {
+                "speaker": "Michael Portillo ", 
+                "utterance": "\tTo quote \u2018Westside Story\u2019, \u201cDear kindly Sergeant Krupke, you\u2019ve got to understand it\u2019s just our bringing up-skie, that gets us out of hand.\u201d"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI think there\u2019s a danger that what we are doing, is we\u2019re in danger of making young people feel ill, if you keep telling them they\u2019re ill and they\u2019re dependent, and they can\u2019t cope, and they\u2019re not resilient, and they\u2019ve got this syndrome. That might empower them temporarily for a minute after they\u2019ve been to their CBT, but ultimately it means that they\u2019re not standing on their own two feet. And I think that that\u2019s very dangerous."
+            }, 
+            {
+                "speaker": "Male ", 
+                "utterance": "\tOkay, we\u2019ll have to leave it there. That\u2019s it for this week, from our panel: Melanie Philips, Claire Fox, Michael Portillo and Matthew Taylor, and from me, until the same time next week. Good bye."
+            }
+        ]
+    ], 
+    "metadata": {
+        "authors": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "dates": {
+            "collection": "2012", 
+            "packaging": "2013-07-02"
+        }, 
+        "description": "A 65,000 word corpus of unanalysed dialogue transcripts from the BBC Radio 4 Moral Maze programme", 
+        "doi": "", 
+        "error_log": {}, 
+        "notes": [
+            "Each dataset comprises two columns of data, column 1: Speaker, and Column 2: Utterance", 
+            "Checksums are used merely to indicate whether this file has become corrupted and are computed using the md5 algorithm. For versioning it is better use the versions of this dataset from the Git repository for this corpus."
+        ], 
+        "tags": [
+            "dataset", 
+            "dialogue", 
+            "moral maze"
+        ], 
+        "title": "BBC Radio 4 Moral Maze Transcripts", 
+        "warnings": [
+            "This dataset contains transcripts from human conversations that were transcribed by a transcription service. Hence there could be transcription errors within the dataset that stem from human error."
+        ], 
+        "where": [
+            "University of Aberdeen", 
+            "University of Dundee"
+        ]
+    }
+}

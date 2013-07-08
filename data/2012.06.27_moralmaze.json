@@ -1,0 +1,716 @@
+{
+    "data": [
+        [
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tGood evening. David Cameron called this week for a radical rethink of the welfare state, to go back to its first principals, and then deal with what he regards as its negative consequences.  There\u2019s a moral as well as political fault line running through all this. What exactly is the underlying principle of the welfare state? Relieving need? Achieving greater social justice? Or promoting virtue?  Above all, how negative have been the consequences? David Cameron says it\u2019s gone too far and provided perverse incentives that encourage people not to work, to have children they can\u2019t afford, and to become and continue to be, dependent on others. The currently fashionable juxtaposition of \u2018strivers\u2019 and \u2018skivers\u2019 is a clear echo of the Victorian distinction between the deserving and the undeserving poor.  Mr Cameron\u2019s opponents say the real picture is far more complex; the shiftless are a tiny proportion of those truly in need, and even if you target them, their children suffer.  Is it just a matter of getting the balance right between the prudent and the feckless? Between compassion and cost? Even now, between the young and the old? Welfare: what\u2019s fair? More to the point, what\u2019s right? That\u2019s our \u2018moral maze\u2019 tonight. The panel: Claire Fox, from the Institute of Ideas; Anne McElvoy, public policy editor of The Economist; the Catholic writer Clifford Longley; and the Science Historian Kenan Malik.  Clifford Longley, the polls seem to suggest that Cameron\u2019s concerns resonate with perhaps the majority? Does that majority include you?"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tThat worries me very much. No, it doesn\u2019t. I see very great danger here of stirring up resentment towards people who need welfare to keep house and home together, and that\u2019s very dangerous to the solidarity, which civilization requires.  And there is what seems to be a fundamental anthropological mistake behind what\u2019s he\u2019s saying; he assumes that people are incentivised to remain unemployed, and you have to, as it were, bribe them into work. Whereas I think people are naturally creative and industrious, and want to work, they\u2019re not naturally lazy."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAnne McElvoy?"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tWell I think the welfare state at its best, balances moral and practical considerations, but it does need reform, and it needs thoughtful reform to avoid the tendency that it has to trap people in dependency as a way of life. I would suggest that that is neither a moral nor a practical way forward, so Mr Cameron was perfectly within his rights to raise that."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan Malik?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tWell welfare is at heart an acknowledgment of the inadequacies of the market system, and an attempt to address them. I think the current debate is about deflecting debate from those failures onto the supposed moral fecklessness of individuals, and in that I think politicians are not taking a moral stance over welfare reform, they\u2019re simply moralising."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI agree with Clifford actually, that people are not naturally lazy or feckless. But I think that the problem for me is that welfarism has gone far beyond a safety net, or anything compassionate, and has become an all consuming be all and end all for a significant minority of society. And so consequently, we actually encourage people to become dependent on the state, and that actually is no good for anybody.  I\u2019m not interested in Cameron making cuts, but I am interested in the demoralising impact of welfarism."
+            }, 
+            {
+                "speaker": "Michel Buerk ", 
+                "utterance": "\tPanel, thanks very much indeed. Our first witness is James Bartholomew, author of \u2018The Welfare State We\u2019re In\u2019. Is the welfare state, as it is, in your view a safety net or a trap?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tIt is a safety net, but it is also very much a trap. I liken it to a mouse trap which has a rather stale piece of cheese in it; it\u2019s not particularly attractive, but the mouse going by is peckish and goes into the trap, nibbles the stale piece of cheese, and the trap clunks behind him. That\u2019s how I regard it."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan Malik?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tIf it were politically possible, would you want to abolish the welfare state altogether?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tYes."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tSo, it\u2019s going back to the politics of the poor house. You see unemployment as a crime not as a personal tragedy."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI didn\u2019t say that."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tWell if you want to abolish the welfare-"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tNothing I\u2019ve said implies that I regard it as a crime."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tSo how do you regard it?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tUnemployment? I regard unemployment as a state out of which everybody could get, if the government didn\u2019t get in the way."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tSo there are currently 2.5 million unemployed, there are less than 500,000 vacancies. In your utopia where you abolish the welfare state and welfare provisions, how would those 2 million people survive?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI didn\u2019t refer to utopia; I don\u2019t believe that there is a utopia. In fact I believe that people like you who believe as a utopia, are precisely the ones who have led to bad policies and bad results."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tI see you haven\u2019t answered my question."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tIt is the illusion that there is a utopia that has led to the idea that you can give people money for not working, and that will cause no perverse results."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tYou still haven\u2019t answered my question, which is that we have 2.5 million unemployed, 500,000 vacancies. In your \u2018non-utopia\u2019 where you\u2019ve abolished the welfare state, what happens to those 2 million?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tIn the same way that in other countries which run well and efficient welfare states, have very low unemployment \u2013 much lower than we do \u2013 it would be as low, or lower as it is there. And at no time before the welfare state, was there mass permanent unemployment; only since the welfare state has there been permanent unemployment.  There is no natural condition of unemployment; unemployment comes about on a mass permanent scale entirely because of the welfare state."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tSo you see the welfare state system as creating a whole class of say, work shy, people who are incentivised not to work."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tYou are putting up these Aunt Sally\u2019s; utopian first, now work shy. I didn\u2019t say \u201cWork shy\u201d I don\u2019t believe people are naturally work shy. I\u2019ve never referred to them being work shy, I do not take an adversarial position towards the poor unfortunate people who\u2019ve been trapped in the trap."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tYou\u2019re point is that you want to get rid of the welfare state, the welfare system, and you see the welfare system as the problem."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tNo, you didn\u2019t ask me that. You asked me, in an ideal world where politics was not a factor. That is not the world we live in; in the real world, to get rid of the welfare state is not possible. I totally accept that."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tOh I agree. What will you do?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tThe real question, as opposed to going out to theoretical \u2018nowhereville\u2019, is to ask \u201cWhat is the best welfare state we can make, in the real world?\u201d And that is a worthwhile ambition."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tGo on; explain."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tWell, I believe there are lots of ways in which we can change our welfare state to make it better."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tLike, for example, halving benefits? That\u2019s one of your proposals."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tWell one thing you may not be aware of, because you\u2019re not in this business, is just how much benefits have been cut already by inflation. This was started under Thatcher, continued under Blair, continued under Brown; the real value of unemployment benefit in relation to average earnings has fallen dramatically.  So, that is not enough. What is vital, it seems to me, having traveled around the world in research for a new book, is that people should be able to be compelled from the earliest possible stage to work. If they\u2019re going to be of working age, able bodied, and if they\u2019re going to get benefits; they should not be allowed just to sit at home on benefits."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClifford Longley?"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tPeople have a moral duty to work to support themselves; I think that\u2019s what you\u2019re saying? I\u2019m not disagreeing with you. Yes?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI wouldn\u2019t use the word \u2018moral\u2019, but I think most people around the world would say \u201cIf one lot of people is going to give another lot of people money, that second lot of people should be willing to work, and should work.\u201d"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tWell, yes okay. Is there common ground here between us? Because, would you agree with me then, that there is a natural and normal desire to work? That that\u2019s part of the way God made people?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI don\u2019t know. I certainly think people who don\u2019t work, who are unemployed, are depressed. There is plenty of evidence to say that there is depression amongst the unemployed. And so-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tWell their will has been broken by unemployment, has it not? But I mean, I really want to get to the point (Cross talking), do you believe that individuals are feckless and lazy, or not? Is that where you\u2019re coming from?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI don\u2019t believe people are feckless and lazy? No, I don\u2019t start from that position. I don\u2019t blame the people-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\t(Cross talking). I\u2019m happy that you don\u2019t."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI blame the political system that has created a trap for these people."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tIsn\u2019t the fundamental duty we have as a society towards the unemployed, to make sure there are enough jobs for them to take the opportunity to go and work?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tWell there\u2019s the rub. Yes, I mean there are lots of ways in which you can hopefully allow the market to create jobs. If the market doesn\u2019t, for whatever reason \u2013 and you\u2019re colleague may think it\u2019s because of the failure of Capitalism, I may think it\u2019s because of government interference \u2013 never mind who\u2019s fault it is, then the next thing that the government should do, is to provide jobs for these people to do. As it has done in-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tBut doesn\u2019t that undermine the whole argument that you make about incentives? If people want to work, if it\u2019s their nature to work, and if the work was there, then they\u2019d go and do it."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tAh, but my position, being realistic, is that we\u2019re not going to get rid of the welfare state. There will be a government supplied safety net, and therefore you are going to provide money to these people, and then you must require them to work."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tSee I\u2019m not sure these people exist; these people who are not working because they can make a penny more from giving up their job and living at home. It\u2019s so unnatural, that seems to me."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tNo, no, it\u2019s not a problem making a penny more; it\u2019s because you say, \u201cYou get benefits on the basis that you work.\u201d In Wisconsin, when they made this requirement, and they gave a lot of help to people in terms of childcare; in Wisconsin they had a reduction in welfare roles of up to 90%."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tAren\u2019t incentives irrelevant?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tIt\u2019s not incentives it\u2019s compulsion; it\u2019s requirement."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tAren\u2019t incentives and compulsions irrelevant. Aren\u2019t we just providing the work that people want to do? I mean the desire to work is innate, is it not? It\u2019s creative, it\u2019s industrious, people would require the social context in which work happens; they enjoy that, they want the relationships that go with work."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI don\u2019t know whether it is innate or not, to be quite honest. I\u2019ve no idea whether it\u2019s innate. I\u2019m not sure it is. (Cross talking)"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": " \tBut your supposition is that it\u2019s not, actually. That we have to bribe people, as it were."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tWell, I\u2019ve got an open mind. I certainly-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tOr starve people."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tWell it\u2019s certainly the case that people can be tempted out of work. If you\u2019re going to work very hard for 8 hours a day, 5 days a week and you\u2019re going to make only \u00a31 more than you would have made on benefits I suggest that the urge to get a job is not as strong as it would be if you\u2019d otherwise be penniless."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tBut the urge to get a job, I\u2019m saying, is overwhelming."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tIt\u2019s not overwhelming; it\u2019s obvious it\u2019s not overwhelming. It may exist, but not overwhelming."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tHang on, if there were twice as many jobs available, unemployment would fall drastically, would it not?"
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tSorry, say it again?"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tIf there were twice as many jobs available than there are now, unemployment would fall drastically."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tI think that\u2019s begging a lot of questions."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tIt does happen; you can see the curves moving together, can\u2019t you? They go up, they go down."
+            }, 
+            {
+                "speaker": "J Bartholomew ", 
+                "utterance": "\tOh yes, there\u2019s a short-term relationship, but no necessarily a long term one."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tJames Bartholomew, thank you very much indeed. Next witness is Romin Sutherland, who\u2019s manager of an advocacy group called the \u2018Next Door Project\u2019, which helps people affected by changes to housing benefit in London.  Mr Sutherland, what do you make of Mr Cameron\u2019s point that paying young people to move out of their parents\u2019 home doesn\u2019t mean they\u2019re independent, they\u2019re just dependant on other people\u2019s parents?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tWell I think it clearly shows that Cameron hasn\u2019t learnt any lesson from the past. In a sense he\u2019s very similar to the abolition of the Board and Lodgings Allowance that Margaret Thatcher brought in at the end of the \u201880s, which obviously saw a huge spike in rough sleeping. Particularly from young people, that\u2019s where a lot of civil society like crisis at centrepoint have their roots.  So it\u2019s not going to have the effect that I think Cameron believes that it will."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAnne McElvoy?"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tSo what sort of conditionality; or what sort of duties would you expect people on benefit to undertake, in return for that support?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tI think there\u2019s certainly an argument to look at re-introducing a contributory principle back in to welfare. Something like the French system where if you lose your job you get 70% of your previous wage for a limited period. People move, in a life course, move in and out of work, and that in effect provides an incentive and also makes people feel like they\u2019re getting back what they put in, at 70%."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tBut a contributory principle also means that an idea of desert. The welfare state that we have at the moment here lacks a sense of \u2018just desert\u2019, and when people try to make a distinction between the deserving and the less deserving claimants, some people then kick up about it."
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tTrue, but I think it takes a very simple view, you know \u2013 you put a pound in and you take a pound out. But I don\u2019t think that\u2019s necessarily how the welfare state was ever intended to work, or the way it does work.  I think you get certain \u2018social goods\u2019 which are greater than that. I might not take back from the National Health Service or from the welfare state, the things that I put in, the money that I put in through my tax, but I certainly get indirect effects; indirect goods. I want to live in a London that doesn\u2019t have high levels of homelessness; I want to live in a London that doesn\u2019t have high levels of crime. So there are other things that the taxpayers get back from the welfare state."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tBut then I don\u2019t quite understand what your real criticism is of what Mr Cameron was saying, because he seemed to be saying we do need to get back to this idea of desert, and also that you put- some people should think that what they pay in, that you should pay in and take out, and these things are in some sort of a balance. But then you were critical about that?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tI\u2019m not sure how to answer that. But one of the things that I picked up when I was listening in the green room was about this idea of this demoralisation \u2013 I\u2019m not sure who mentioned that \u2013 but this demoralisation that can happen to people that have sort of been born into a culture of poverty. One of the questions that I wanted to ask is, is a punitive welfare state, is a welfare state which attempts to socially engineer, attempts to prod and poke people \u2018carrot and stick\u2019 into work, is that sufficient to break this apparent perceived cycle? Or is there a danger that we\u2019ll actually make things worse, and we\u2019ll actually further entrench the type of poverty?  Because \u2013 I mean the first question is, is there a problem? Does it create these disincentives? The second question is, will a carrot and a stick approach to welfare state actually solve them?"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tBut I don\u2019t know what you\u2019re solution would be if you didn\u2019t go that way; if you took something like \u2018welfare to work\u2019 set up by a Democrat American president who simply thought that too many people in the underclass were getting trapped in a dependency that wasn\u2019t good for them, wasn\u2019t good for their children. Do you think he was also being too punitive?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tCertainly I think \u2018welfare to work\u2019 \u2013 it creates the opposite of a dependency on welfare state, doesn\u2019t it? It creates a dependency on work."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tIs that a bad thing?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tIf it\u2019s low paid. If it\u2019s very poor conditions, if you have to drive, if you can\u2019t look after your children, if it causes damage to your health; then certainly I think it is."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tSo it\u2019s only the right to a job that you\u2019d accept?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tNo. I think obviously there is a minimum for any work, sort of the standards that we would perceive. There are benefits to work, obviously self-esteem, aspiration, sort of intangible goods which individuals feel. But equally there has to be a bottom line, doesn\u2019t there? Beyond which it turns into outright exploitation; we\u2019re not saying people in sweatshops are gaining self-esteem from-"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tWe have a minimum wage."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOne of my concerns is this demoralisation question. In this debate it seems to me, and actually the way Mr Cameron posed it, was you got a choice of being mollycoddled at home by your mum and dad, or you demand that you\u2019re sustained by the State.  Don\u2019t you think that we need to encourage young people to see a third way, an alternative to that?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tI really genuinely think we do; I just don\u2019t think that we have the social circumstances to provide that for our young people. "
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tNow you\u2019re saying \u201cProvide that for our young people\u201d, and in a way that\u2019s where I\u2019m going. These are young adults; you\u2019re kind of treating them as though they\u2019re passive recipients of something. And I suppose that\u2019s my concern; how do we encourage the young? It\u2019s not beyond the imagination to imagine the young might get up and go and do something about this, other than kind of sit and wait to be handed something."
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tWell I think what we need to look at is we need to look at other ways of incentivising; making work pay. Looking at the barriers that exist for young people to get into work. Young people nowadays, you know who have just sat their GCSEs or just sat their A Levels, have far fewer opportunities than their parents generations. There\u2019s no free education, there\u2019s no affordable housing."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tCome on. Come on, come on. Look, before this recession started, right- it\u2019s just that you\u2019re describing eighteen plus as though they\u2019re kind of, overgrown children, and I want to encourage a society that treats people as grown ups; that allows them to grow up.  Before this recession, and forget whether Cameron is motivated by cuts or not, there was an ever increasingly welfare dependency. And a lot of young people sort of, had a sense of entitlement, which I don\u2019t think was very healthy.  Now you say, \u201cOh we need to create good jobs\u201d, why can\u2019t young people go out and get something from the world, contribute something to the world? Instead of saying \u201cWhy can\u2019t I get a well paid job? Why can\u2019t I get a house?\u201d That\u2019s not good, is it?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tWell it sort of goes back to the hypothetical couple living with their parents that Cameron spoke about in his speech on Monday. This couple who will say to me that I\u2019m very angry that I see these other people \u2013 really I think they shouldn\u2019t be angry with young people who are making use of the welfare state, they should really be angry with their government for not addressing the underlying social policy issues."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tOkay, well that would be a start. But the point I\u2019m making is that I\u2019m concerned that in this debate, that people start saying \u201cIf we don\u2019t give more benefits, more welfare, we\u2019re going to end up with homeless young people everywhere, destitution and so on. I think that\u2019s overstating it. I think that what we need is more houses, that\u2019s fair enough. But I think the danger of what you\u2019re saying is, can you not-"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAre you asking the question Claire or are you starting your own-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tSorry, sorry. No, I do apologise. Are you not overstating your case, and at the same time treating young people as though they won\u2019t cope with living in a garret, bit of poverty but I\u2019ll get by."
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tWill abolishing housing benefit for under 25s lead to homelessness? And by which I mean hidden homelessness, sofa surfing, staying with the wrong people."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tStaying with your mates?"
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tWell you have to ask yourself, \u201cWho are those mates?\u201d You also have to look at- you know, one of the big initiatives that we\u2019re looking at, is the troubled families initiative; this idea that this hardcore of really difficult families that we need to look at. What\u2019s going to happen if maybe there are certain members of that household who should leave, but unfortunately they can\u2019t leave because there\u2019s going to be no support for them?"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tRomin Sutherland, thank you very much indeed. "
+            }, 
+            {
+                "speaker": "Romin ", 
+                "utterance": "\tThank you."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tOur next witness is Neil O\u2019Brien who\u2019s Director of the think tank \u2018The Policy Exchange\u2019. Should the welfare state, in your view, be about what people need, or what they deserve?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tWell it should be about a bit of both, but I think we should move towards a system which is more based on what you deserve. Britain actually is quite unusual internationally, insofar as it\u2019s moved the furthest away of any of the industrialised countries from a contributory system where what you\u2019ve paid in is what you get out.  In most other countries there\u2019s something like an unemployment insurance, so if you have become unemployed and you\u2019ve paid in in the past, you\u2019ll get a more generous rate of benefits than people who haven\u2019t paid in. That was the way our system was supposed to work as well, that\u2019s what William Beveridge wanted when he was designing the welfare state. He thought about having this two-tier system, but we never properly put that into operation. So Britain is actually very unusual compared to other countries."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClifford Longley?"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tIf we\u2019re returning to the notion of the deserving and the undeserving poor, what happens to the children of the undeserving? I\u2019m thinking particularly of the fourth child in David Cameron\u2019s Chinese style three-child policy. Are they undeserving?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tI don\u2019t think these terms \u2018deserving\u2019 or \u2018undeserving\u2019 are particularly helpful. What we do need to think about, are people\u2019s incentives, and how you set up people\u2019s incentives in the right way, that people do the right things. How do we move from a policy that we\u2019ve been pursuing for quite a long time, of trying to fight poverty mainly by giving people more in cash benefits, which solves the problem today, to a policy which is more about solving the problem over the long run by moving more people into work, reducing unemployment."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tIsn\u2019t the truth that there\u2019s quite a substantial element of blame of the people who are so called \u2018undeserving\u2019, even if you don\u2019t accept the term?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tYes, I would accept that in the media there is quite a lot of blame, and we need to think about how to describe the problem, and understand the problem accurately. So people quite often talk about \u2018scroungers\u2019 and so on, and I don\u2019t think that\u2019s right. The way I would describe a lot of the people I\u2019ve met who have been long term unemployed is kind of defeated, kind of depressed.  I mean some people, it is true, have attitudinal problems who are on unemployment benefits. For example the Department of Work and Pensions did a survey of people who have been on benefits a couple of years ago, and they found that 11% of people who were on benefits said that they felt fully justified being on benefits and have discovered that life without the added complication of work has much to recommend it. Another 9% felt that to work or claim benefits is just a choice you should be free to make, and another 11% on top of that said that job searching is not that urgent because they need to make the most of the benefits of not working.  So you\u2019ve got about 30% of claimants who\u2019ve got some sort of attitudinal problem, but let\u2019s not just call them \u2018scroungers\u2019. I met somebody-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tI like what you said about them being somehow or another demoralised and broken, I mean that does seem to correspond to the reality; we don\u2019t want to blame them for that. It\u2019s been done to them, not done by them."
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tI think about someone who I met a couple of years ago who is a young guy, about my age; he\u2019d lost his job at Tesco, mainly because he wasn\u2019t turning up to work on time, which is mainly because he was smoking a lot of spliff and he was basically very disorganised. Now, some people would look at him and say \u201cThis guy\u2019s just a scrounger, he needs a kick up the backside to get going\u201d. Actually, we need to think about, how we have a more paternalist system for people like that.  If you took the people around this table this evening, and you took away all of our contacts, our qualifications our great jobs and so on, we\u2019d still have more internal resources than that guy. We\u2019d still be much better off, because we\u2019ve had the benefits, whatever they are, from our family of being set up in such a way that we understand the world of working and how to get on in life."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tSorry to interrupt your train of thought, I think I can understand your point but I want to take it to another dimension of this. Isn\u2019t the reality that in the last ten or twenty years there\u2019s been a massive transfer of wealth from the poor to the rich, and from the young to the old, and that what you\u2019re really trying to do is to justify that by blaming the poor for their position?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tNo, I\u2019m not trying to justify anything. I think-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tBut you agree that there\u2019s been a transfer? "
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tNo, I think what\u2019s happened is, there\u2019s been a huge and permanent increase in the number of people who are unemployed. We kidded ourselves during the last decade that we\u2019d solved the problem of unemployment, because we were just looking at the claimant count, a very narrow measure of unemployment. If you look at the wider measure of all the people on benefits: the people on incapacity benefit, the people on income support as well. Actually, even all the way through the years of the debt fuelled boom we had about 5 million people effectively workless. We need to think much harder about how we can make the benefit system, the whole welfare state much more activating, how we can help to get those people into work."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan Malik?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tYou\u2019re suggesting that the moral problem is that of how to provide incentives to get people off welfare, into work. But if you wanted to pay to work and to create a culture of work, might it not be useful to have work in the first place? To have proper jobs at proper wages in the first place?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tThat\u2019s certainly true. I mean it would be wonderful if politicians could just snap their fingers and create millions of jobs that would be great. Unfortunately they can\u2019t.  Now you used the word \u2018incentive\u2019, and there are two different ways of improving the incentives to work. One is to change the balance of or the generosity of out of work beneifts, maybe spend more on in work benefits like tax credits and so on. Maybe we could turn our tax credits, which aren\u2019t really tax credits in the UK, into something you only get paid if you\u2019re working; that would be a good way of incentivising work. But we\u2019ve thought too much, funnily, about the financial incentives to work, and not enough about the conditionality in the system. What do we ask people to do in return for their benefits?  The idea of \u2018Work Fair\u2019, or of conditionality, is incredibly popular. About 80% of people support the idea that if you\u2019ve been on out of work benefits for more than a year, you should be asked to do community work in return for your benefits. And they are right about that, because we know that these programs from other countries, they work; they really reduce unemployment. In one of the US states that went the furthest in this in diverting people from being on welfare, they managed at one point to reduce the number of people on benefits by 90%. This is a huge opportunity that we\u2019ve barely begun to explore in the UK system."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tExcept that when it reduces by 90%- what you meant is that they were all in low paid, part time jobs. If that\u2019s the kind of job system that you want, it seems to be a deeply immoral way of dealing with the quest of work, and how people should look at work."
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tSo there\u2019s two questions here. One is, is it moral to ask people to work in a job that doesn\u2019t really pay them that much more than being on benefits? Now, if you look at the polls, people think that is fair. I personally think it\u2019s fair as well. So, imagine the welfare state did not exist and you became unemployed, and you rely on your friends and family to get by, and then someone comes along and offers you a job but it doesn\u2019t give you more money than your family and friends are going. We would still expect you to take that job, and that argument is even stronger if the people you\u2019re relying on are not your friends and family, but other people you don\u2019t even know."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tBut people do take those jobs. After all, nearly two million people t working tax credit, which means that they are in jobs which are so badly paid that they can\u2019t survive, that they require benefits. And therefore this argument as benefits somehow taking people out of jobs, or disincentivising people simply doesn\u2019t work, does it? Otherwise how do you explain the fact that such a high proportion of people are desperate to work, that work on such low wages that they have to have benefits in order to top them up?"
+            }, 
+            {
+                "speaker": "Neil O\u2019Brien ", 
+                "utterance": "\tIt does work up to a point insofar as we know that the introduction of tax credits did move some groups, particularly lone parents, that helped to get more of them into employment. One of the confusing things in Britain is that actually the overwhelming majority of what we call \u2018tax credits\u2019, about 30 of the \u00a333bn a year we spend on them is actually spent on stuff that\u2019s actually not at all linked to being in work. It\u2019s basically \u2013 child tax credit is just like a much more generous version of child benefit, you don\u2019t need to be working to claim it.  So we think we\u2019ve done a lot to improve work incentives financially, we haven\u2019t actually done as much as we could have done and we could move some of that money around so it\u2019s less for not working and more for going into work, and supporting those people who are trying hard on low wages, and who we want to see succeed."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tNeil O\u2019Brien, thanks very much indeed. Our last witness is Owen Jones, who\u2019s a columnist for \u2018The Independent\u2019 newspaper, and author of Chavs: The Demonization of the Working Class, he\u2019s on the line now from Swansea.  Owen Jones, do you think Cameron has a point? Or do you think it\u2019s all just demonising the poor?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tWell, there\u2019s certainly a point that welfare spending in this country is too high, but it\u2019s not to do with a bunch of lazy scroungers dribbling on their sofas watching reflections of themselves on Jeremy Kyle, as the right wing media would have us believe.  It\u2019s due to a triple crisis: a housing crisis, billions wasted on housing benefit lining the pockets of wealthy landlords because we stopped building social housing. It\u2019s to do with a low wages crisis; billions spent on tax credits which subsidise low pay. It\u2019s to do with an unemployment crisis, and Neil was right there, that existed in the boom period due to the massive deindustrialising of Britain and the disappearance of skilled, middle-income jobs."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire Fox?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tThere\u2019s historically been some resistance nonetheless, would you not recognise, from ordinary working class people to actually taking state benefits?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tOh absolutely, and I have to say, what\u2019s very clever about Cameron\u2019s strategy \u2013 I mean, since this government\u2019s come to power they\u2019ve tried to exploit tensions in working class Britain between the working poor and the unemployed; between the non-disabled and the disabled; between private sector workers and public sector workers. And of course it depends, but the point about a welfare state is it was set up as a safety net, during a time of near full employment. That\u2019s the difference, that\u2019s a crucial difference, and the idea behind it was that it would be for periods of sporadic unemployment."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes, so that\u2019s what I\u2019m trying to get at Mr Jones. Is it not the case that what\u2019s happened is that in preference to people being rather embarrassed to take benefits \u2013 and forget what Cameron\u2019s motives are, we\u2019re not talking about him, we\u2019re talking about what you think. Do you think that it\u2019s a problem that the sense of individual self-reliance, and standing on your own two feet and actually doing everything to avoid taking money from the state because you want to be politically independent and morally and individually independent; do you not recognise that that has been sapped away at, chipped away at by the growth of welfarsim?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tNo I don\u2019t, because the growth of what you call \u2018welfarism\u2019 is to do with, firstly the disappearance of so many skilled middle income jobs; and secondly due to the failure to build social housing. So for example, that well known propagate of laughing propaganda \u2018The Daily Telegraph\u2019 pointed out there are 23 people chasing every job in this country. The official unemployment figure, again Neil has a point on this, is understating the real crisis. There are a number of people competing for work because, for example, lots of people are doing part time work because they can\u2019t get full time work.  The reason that the number of people on benefits has soared, is simply because the jobs that once existed disappeared. Take Glasgow-"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tJust hold on, I understand all that. What I\u2019m actually asking you, and actually you\u2019ve congratulated our previous witness Neil, so I will too. Say you\u2019re in a situation; why won\u2019t you think, rather than taking benefits, rather than giving a speech, what I\u2019ll do is I\u2019ll do anything. I\u2019ll take any bits and jobs I\u2019ll do anything because I\u2019m not going to be dependent, either on my parents or on the State; I want to grow up, be independent. I don\u2019t want to be beholden to the State. I don\u2019t want to sit there passively, and I\u2019ll take a low paid, part time job."
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tWell because you\u2019re making the presumption that those part time jobs exist, and what people need \u2013 for example, you\u2019re in a situation where you\u2019re looking after kids. Out of pride, do you say \u201cWell I\u2019m not going to take benefits and force my children to suffer as a consequence of my own stubbornness.\u201d I\u2019m near Merthyr Tydfil, in Wales, which has one of the highest unemployment rates in the country; Iain Duncan Smith said \u201cWhy don\u2019t they just get on the bus to Cardiff?\u201d But in actual fact, it was revealed, that for every nine jobseekers in Cardiff there was only one vacancy. You can\u2019t just tell people to pull up their bootstraps when there aren\u2019t the jobs available.  What on earth do you expect people to do in a place like Merthyr Tydfil, Claire? I\u2019d love to hear your thoughts on what they should do. Should they resort to petty crime, for example, rather than take benefits? What should they do in order to look after their children?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tCan I ask you then, do you think that the old idea of welfarism as a safety net, has not changed at all? Even though we\u2019ve seen millions of people claiming incapacity benefit, being dependent on benefits. Are you seriously telling me that young people do not have a sense of entitlement from the state, rather than a sense of self-reliance?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tNo they don\u2019t. And I\u2019ll give you an example, okay? Because youth unemployment is a blight on our nation, you\u2019re absolutely right. Over a million people, young people, without work, it has a scarring impact. They\u2019re far more likely as a result to be unemployed in later life.  Royal Mail ran a scheme at Christmas, applying for seasonal work. It was about 15,000 vacancies and they were overwhelmed with tens of thousands of young people, desperate for work. You\u2019ve no evidence for your assertions, Claire."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAnne McElvoy?"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tDo you accept that there are incentives inherent in housing benefit, particularly when its begun at an early age? Because it leads to a dependency which may in itself just not be a good way to live, or not be a good thing to pass on to your children.  Forget about your externalities which you\u2019ve gone into in some detail; in itself do you think that there is a danger there?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tWell I\u2019ve made it clear; housing benefit - I mean we spend about \u00a320 billion as a nation on housing benefit, and the reality of the situation, and you can\u2019t not talk about what you call externalities without- to understand\u2026"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tBut you just have, so I was just trying to find out whether you thought that in itself this is undesirable."
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tThis is often a working benefit. So, for example, last year 93% of new claimants were in a household in which somebody worked. The reason we have so many people claiming housing benefit is because there isn\u2019t the social housing. There\u2019s 5 million people languishing on social housing waiting lists."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tCan I just bring you back to the key point; do you think \u2013 I\u2019m sorry, you just have really talked about that, so that\u2019s really why I\u2019m pushing you on a little bit. Do accept that housing benefit, particularly when paid out very young to so many young people, has a debilitating-"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tNo. You\u2019ve completely misunderstood the point of housing benefit. It doesn\u2019t go to the tenant, it goes to the landlords who are charging extortionate rents because of soaring-"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": " \tYou just seem to be finding every which way not to answer my very sensible question."
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tI have answered your question, but you\u2019ve misunderstood the nature of housing benefit."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tNo you haven\u2019t. Well, silly me, it must be the day job. I do think that your problem is that you will not say whether you find it inherently undesirable or not, or that it leads to a situation which is very bad because it traps people. You are the champion of the working class; do you not think that it is a problem?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tAt this current time, the current context without social housing, with 5 million people on social housing waiting lists, people - of course they should claim housing benefit, if they are unable to pay what are extortionate rents. Particularly in places like London, that\u2019s not their fault."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tAnd you don\u2019t see anything distorting, and of course I do not mean for all claimants by any means, but you don\u2019t see anything distorting? Because there is such a lot of evidence that it does have a distorting effect, and also that it particularly does so for children \u2013 "
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tWhat distorting effect? I don\u2019t understand what-"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tA distorting effect then on whether you\u2019re prepared to go into training, whether you will go back in to the labour market; on what terms you\u2019re prepared to take a job. Do you not accept any of that?"
+            }, 
+            {
+                "speaker": "Owen Jones ", 
+                "utterance": "\tThis again comes down to your misunderstanding of how housing benefit works, because as I pointed out, over nine out of ten new claimants are in a working household. The problem isn\u2019t lack of employment, the problem is they are often in low paid work and at a time when you don\u2019t have social housing \u2013 5 million people on the social housing waiting list \u2013 when rents are soaring, they can\u2019t afford to pay their rent.  Now, I want to take housing benefit down, and instead of wasting it lining the pockets of landlords it could be used to build housing which would stimulate the economy, create jobs, bring down the welfare bill, and bring down the social housing waiting list.  But you can\u2019t blame the people who are rationally taking housing benefit when they can\u2019t afford to pay their rent."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tOwen Jones, thank you very much indeed. Let\u2019s review and tussle over what we\u2019ve heard. Our first witness, James Bartholomew; pretty clear cut, pretty clear arguments, whether you agreed with them or not. One of which was that everybody could get out of unemployment if the government didn\u2019t get in the way.  Clifford, you had quite an entertaining discussion with him?"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tI was more sympathetic to him, because there seemed to me to be a germ of a compassion about what he was saying, and the same thing I think true of Neil O\u2019Brien. They do recognise, these thinkers of the right, they do recognise; they\u2019re not just welfare rangers, though they are welfare rangers. They do reocgnise that there are serious issues, serious problems that need to be addressed and that the way in which people find themselves parked, as it were, not participating in society is a serious moral issues, and can\u2019t be denied.  I think the way we differ is a) who\u2019s fault it is, and what we do about it. But I think there is a common that there is that fundamental issue."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI think it\u2019s interesting that Clifford was swayed by our witnesses to discover that they weren\u2019t saying that everyone was feckless, lazy scroungers. Because actually I think that\u2019s an \u2018Aunt Sally\u2019, and I think that what we\u2019ve discovered tonight and what we actually have to pursue more, is that left, right, forget that. What I think is important at this point is that there has to be a serious discussion about the impact of welfarism. I thought that those witnesses- and I thought that Neil O\u2019Brien in particular, when he used the example, which is very important I thought. If you\u2019re staying on your mates coach and all the rest of it, and you get a job, you want to prove that you\u2019re going to not just kind of go \u201cOh well, it\u2019s not that much money.\u201d You\u2019ll use it, that\u2019s what you want.  I think that our last witness\u2019 refusal to acknowledge that there is a problem with the way that that is not encouraged culturally, and that is reflected then in a benefits system that\u2019s grown disproportionately, not just because"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tBut Claire, do you have an answer to his complaint that our market in housing has seriously distorted the housing benefit?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tYes, I\u2019m a campaigner for more housing; I\u2019ve argued that we should build over green belt, if you want. I want more housing, that\u2019s fine."
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tAnd how would that reduce the amount we spend on housing benefit?"
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWhat I object to is the lack of recognition that there\u2019s anything sapping away at the moral of young people in particular, who are dependent on the State."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tCan we get back to that other focus of debate early on; the idea of conditionality. The first witness saying that people should be compelled to work, they shouldn\u2019t be allowed to sit at home; and the second witness saying that actually that kind thing might entrench the difficulties people are under can..."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tThe problem with compelling people to work, is that it suggests that the problem is that people do not wish to work. This is why- the argument that Anne was raising, \u201cLet\u2019s not talk about externalities, let\u2019s talk about internalities\u201d as it were, misses the point. Because it\u2019s a way of transforming the moral issue from a lack of jobs, a lack of a provision, to an internal failure to do that. If-"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tBut there is an internal failure in some cases. I would never use the word \u2018internalities\u2019, but if I did - there\u2019s always a problem with any moral argument that says there is an innate desire to do things, and I disagree with Clifford on this as well.  Clifford, the parable of the talents tells us that some people have an innate desire, so called, to work harder than others. And one of the jobs that the welfare system is I think quite reputably there to do, is to try and encourage the best of people, and to encourage the best that they can do. And there are some things that are difficult; the housing market is one of them, but you don\u2019t get round everything about what you should about welfare dependency and welfarism by just saying \u201cWell I\u2019m sorry, but I can\u2019t deliver the revolution tomorrow.\u201d"
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tHang on a second. Claire, one of the interesting things that \u2013 well, two of the witnesses in fact were saying \u201cWell, yes, but not just any job.\u201d Which I thought was really quite interesting."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tWell this is one thing I wanted to suggest, was that first of all \u2013 and I think our first witness made this very clear \u2013 he wasn\u2019t blaming individuals, he was blaming the system. But the system, if it has an impact, has an impact. And one of the things that I think has happened, and this is why I really disagree with Kenan. I don\u2019t think it is the equivalent of calling people feckless and lazy to say that a lot of young people today I\u2019m afraid, have become as it were, so dependent in a passive way on somebody else sorting things out for them, that they do say \u201cWhy should I take that job? I don\u2019t want to get up that early.\u201d That\u2019s not because I\u2019m trying to demonise young people, I think if we can\u2019t be honest about what\u2019s happening, and the sapping of morale \u2013 and we only saw riots last year with young people saying \u201cWhy shouldn\u2019t I have this? Why shouldn\u2019t I have that?\u201d That is the real lived experience of ordinary working class people, and you\u2019re covering it up."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tKenan, can I just get to that particular point. Where do you see the morality of somebody saying \u201cI don\u2019t want to move away from being dependent on other people for just any job; only a decent job with a very good wage, or an interesting job.\u201d Is that a particularly moral position to take, do you think?"
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tNo. I think the idea that people should take any job at any wages, any conditions is an immoral position to take."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tWell, we are living in a country with a minimum wage, as Anne McElvoy pointed out."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tAnd the point is that people on minimum wage usually have benefits; are usually forced to take on benefits, and so there\u2019s people-"
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tSo the State is already helping them."
+            }, 
+            {
+                "speaker": "Kenan Malik ", 
+                "utterance": "\tWell the State is subsidising employers who refuse to pay people decent wages. There\u2019s a difference between saying people should be self reliant, and saying that the State should punish you in order to teach you to be self reliant. That\u2019s the English public school version of morality (Cross talking) it builds your character."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tYes, but you don\u2019t have another system that works better, and also you cannot just do little policy bits to get yourself off the argument. Something like the housing benefit; well one of the problems with it is yes, many people are working who get it, here\u2019s a disincentive for the other person in their household to go to work. So somewhere, you come down to a moral decision about what you think welfare is about."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tIt\u2019s also not the case that the idea of independence from the State, and character building is confined to the English public school system; this actually has a fine tradition elsewhere."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tClaire, can I just interrupt? Because we\u2019re running out of time, and I just wanted to get to this very, very difficult point that even if you incentivise people in those sort of way, the casualty can be the really innocent \u2013 the children. That makes it very difficult to-"
+            }, 
+            {
+                "speaker": "Clifford Longley ", 
+                "utterance": "\tCameron\u2019s fourth child, as it were. And I don\u2019t think they\u2019ve an answer to that, it is the knock down argument. We can\u2019t start dividing the population between the deserving and the undeserving because there are too many people included in those categories."
+            }, 
+            {
+                "speaker": "Claire Fox ", 
+                "utterance": "\tI think it\u2019s an interesting thought experiment to say that the young could survive on their own, because they\u2019ve got the get up and go, and we should let them at it, is worth considering."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tAnne, you\u2019ve got 15 seconds."
+            }, 
+            {
+                "speaker": "Anne McElvoy ", 
+                "utterance": "\tI think it\u2019s a very good point, Clifford\u2019s just put his finger on it, about the fourth undeserving child or however many you want to put on the State\u2019s payroll. But I think you don\u2019t just start having children, without your other circumstances being taken into account; it\u2019s these broader circumstances that we really need to get to the nub of."
+            }, 
+            {
+                "speaker": "Michael Buerk ", 
+                "utterance": "\tOkay, that\u2019s it for this week from our panel: Claire Fox, Anne McElvoy, Clifford Longley and Kenan Malik, and from me. Until the same time next week, goodbye."
+            }
+        ]
+    ], 
+    "metadata": {
+        "authors": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "dates": {
+            "collection": "2012", 
+            "packaging": "2013-07-02"
+        }, 
+        "description": "A 65,000 word corpus of unanalysed dialogue transcripts from the BBC Radio 4 Moral Maze programme", 
+        "doi": "", 
+        "error_log": {}, 
+        "notes": [
+            "Each dataset comprises two columns of data, column 1: Speaker, and Column 2: Utterance", 
+            "Checksums are used merely to indicate whether this file has become corrupted and are computed using the md5 algorithm. For versioning it is better use the versions of this dataset from the Git repository for this corpus."
+        ], 
+        "tags": [
+            "dataset", 
+            "dialogue", 
+            "moral maze"
+        ], 
+        "title": "BBC Radio 4 Moral Maze Transcripts", 
+        "warnings": [
+            "This dataset contains transcripts from human conversations that were transcribed by a transcription service. Hence there could be transcription errors within the dataset that stem from human error."
+        ], 
+        "where": [
+            "University of Aberdeen", 
+            "University of Dundee"
+        ]
+    }
+}
