@@ -1,0 +1,51 @@
+{
+    "data": [], 
+    "metadata": {
+        "contributors": [
+            {
+                "affiliation": "", 
+                "homepage": "", 
+                "name": "", 
+                "orcid": ""
+            }
+        ], 
+        "dates": {
+            "collection": "", 
+            "packaging": ""
+        }, 
+        "description": "", 
+        "doi": "", 
+        "error_log": {}, 
+        "licenses": [
+            {
+                "id": "cc-by", 
+                "name": "Creative Commons Attribution 3.0 Unported", 
+                "url": "http://creativecommons.org/licenses/by/3.0/", 
+                "version": "3.0"
+            }
+        ], 
+        "maintainers": [
+            {
+                "affiliation": "", 
+                "homepage": "", 
+                "name": "", 
+                "orcid": ""
+            }
+        ], 
+        "name": "", 
+        "notes": [], 
+        "publishers": [
+            {
+                "affiliation": "", 
+                "homepage": "", 
+                "name": "", 
+                "orcid": ""
+            }
+        ], 
+        "tags": [], 
+        "title": "", 
+        "version": "", 
+        "warnings": [], 
+        "where": []
+    }
+}
