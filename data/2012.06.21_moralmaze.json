@@ -512,7 +512,23 @@
         ]
     ], 
     "metadata": {
-        "authors": [
+        "Contributors": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "Maintainers": [
+            {
+                "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
+                "homepage": "http://www.simonwells.org", 
+                "name": "Simon Wells", 
+                "orcid": "0000-0003-4512-7868"
+            }
+        ], 
+        "Publishers": [
             {
                 "affiliation": "Dept. of Computing Science, University of Aberdeen, Aberdeen.", 
                 "homepage": "http://www.simonwells.org", 
@@ -527,6 +543,15 @@
         "description": "A 65,000 word corpus of unanalysed dialogue transcripts from the BBC Radio 4 Moral Maze programme", 
         "doi": "", 
         "error_log": {}, 
+        "licenses": [
+            {
+                "id": "cc-by", 
+                "name": "Creative Commons Attribution 3.0 Unported", 
+                "url": "http://creativecommons.org/licenses/by/3.0/", 
+                "version": "3.0"
+            }
+        ], 
+        "name": "2012.06.21_moral.maze", 
         "notes": [
             "Each dataset comprises two columns of data, column 1: Speaker, and Column 2: Utterance", 
             "Checksums are used merely to indicate whether this file has become corrupted and are computed using the md5 algorithm. For versioning it is better use the versions of this dataset from the Git repository for this corpus."
